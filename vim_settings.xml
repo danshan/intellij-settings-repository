@@ -18,14 +18,14 @@
         <mark key="." line="89" column="83" />
         <mark key="^" line="89" column="83" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" timestamp="1526543328780">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" timestamp="1526544494734">
         <mark key="'" line="0" column="34" />
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="33" />
+        <mark key="[" line="47" column="9" />
+        <mark key="]" line="47" column="9" />
+        <mark key="^" line="47" column="14" />
+        <mark key="." line="47" column="9" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/api.js" timestamp="1526543285253" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/api.js" timestamp="1526544456499" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/List/CardList.js" timestamp="1526540436308">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -44,12 +44,18 @@
         <mark key="." line="52" column="29" />
         <mark key="^" line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" timestamp="1526543475826">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="7" column="48" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" timestamp="1526543820106">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="142" column="23" />
+        <mark key="]" line="142" column="23" />
+        <mark key="^" line="142" column="23" />
+        <mark key="." line="142" column="23" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1526544864756">
+        <mark key="[" line="80" column="26" />
+        <mark key="]" line="80" column="29" />
+        <mark key="^" line="80" column="29" />
+        <mark key="." line="80" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -58,29 +64,44 @@
       <jump line="139" column="0" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>notices</text>
+      </register>
+      <register name="-" type="4">
+        <text>notices</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiAn5bel5L2c5Y+wJywKICAgICAgICBwYXRoOiAnd29ya3BsYWNlJywK</text>
+        <text encoding="base64">ICByZXR1cm4gcmVxdWVzdCgnL2FwaS9ub3RpY2VzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXRBY3Rpdml0aWVzLAo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBnZXRBY3Rpdml0aWVzLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZXROb3RpY2UsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJvamVjdEluZm8gcHJvamVjdEluZm8gPSBuZXcgUHJvamVjdEluZm8oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdQaXBlbGluZScsCiAgICAgICAgcGF0aDogJ3BpcGVsaW5lJywKICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSB1cGRhdGVUaW1lOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVUaW1lOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHVwZGF0ZWRBdDogbmV3IERhdGUobmV3IERhdGUoKS5nZXRUaW1lKCkgLSAxMDAwICogNjAgKiA2MCAqIDIgKiBpKSwKICAgICAgY3JlYXRlZEF0OiBuZXcgRGF0ZShuZXcgRGF0ZSgpLmdldFRpbWUoKSAtIDEwMDAgKiA2MCAqIDYwICogMiAqIGkpLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVUaW1lOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IHJlbGF0ZWRVc2VyTGlzdCA9IExpc3RzLm5ld0xpbmtlZExpc3QoKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHVwZGF0ZUJ5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>FakeList</text>
       </register>
     </registers>
     <search>
