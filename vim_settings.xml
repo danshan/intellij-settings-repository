@@ -1,0 +1,97 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1526540593587">
+        <mark key="[" line="56" column="37" />
+        <mark key="]" line="137" column="25" />
+        <mark key="." line="137" column="25" />
+        <mark key="^" line="137" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1526540445975">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/router.js" timestamp="1526539786329">
+        <mark key="[" line="89" column="84" />
+        <mark key="]" line="89" column="83" />
+        <mark key="." line="89" column="83" />
+        <mark key="^" line="89" column="83" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" timestamp="1526543328780">
+        <mark key="'" line="0" column="34" />
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/api.js" timestamp="1526543285253" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/List/CardList.js" timestamp="1526540436308">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/menu.js" timestamp="1526539662249">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+        <mark key="^" line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Dashboard/Pipeline.js" timestamp="1526539399266">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="29" />
+        <mark key="." line="52" column="29" />
+        <mark key="^" line="52" column="29" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" timestamp="1526543475826">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="34" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lOiAn5bel5L2c5Y+wJywKICAgICAgICBwYXRoOiAnd29ya3BsYWNlJywK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBnZXRBY3Rpdml0aWVzLAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBnZXRBY3Rpdml0aWVzLAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBnZXROb3RpY2UsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICdQaXBlbGluZScsCiAgICAgICAgcGF0aDogJ3BpcGVsaW5lJywKICAgICAgfSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>FakeList</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
