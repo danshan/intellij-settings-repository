@@ -19,7 +19,7 @@
         <mark key="^" line="129" column="61" />
         <mark key="." line="129" column="61" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" timestamp="1526633833211">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" timestamp="1526635400875">
         <mark key="'" line="20" column="26" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -43,11 +43,12 @@
         <mark key="." line="52" column="29" />
         <mark key="^" line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1526633992087">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1526635811272">
+        <mark key="'" line="86" column="36" />
+        <mark key="[" line="189" column="38" />
+        <mark key="]" line="201" column="70" />
+        <mark key="." line="201" column="70" />
+        <mark key="^" line="201" column="70" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/list.js" timestamp="1526620734840">
         <mark key="'" line="10" column="39" />
@@ -69,12 +70,12 @@
         <mark key="^" line="143" column="49" />
         <mark key="." line="140" column="45" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1526625513174">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1526635741395">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="81" column="23" />
-        <mark key="]" line="81" column="31" />
-        <mark key="^" line="81" column="31" />
-        <mark key="." line="81" column="31" />
+        <mark key="[" line="81" column="21" />
+        <mark key="]" line="81" column="21" />
+        <mark key="." line="81" column="21" />
+        <mark key="^" line="81" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -98,43 +99,44 @@
       <jump line="121" column="3" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" />
       <jump line="2" column="0" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" />
       <jump line="15" column="0" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" />
+      <jump line="86" column="36" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+      <register name="&quot;" type="4">
+        <text>list</text>
       </register>
       <register name="-" type="4">
-        <text>Array.isArray(response) ? response : [],</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxGb3JtLkl0ZW0gbGFiZWxDb2w9e3sgc3BhbjogNSB9fSB3cmFwcGVyQ29sPXt7IHNwYW46IDE1IH19IGxhYmVsPSLmoIfpopgiPgogICAgICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcigndGl0bGUnLCB7CiAgICAgICAgICAgICAgcnVsZXM6IFt7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IHNvbWUgZGVzY3JpcHRpb24uLi4nIH1dLAogICAgICAgICAgICB9KSg8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIgLz4pfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmluZm8oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBjb3VudCA9IHBhcmFtcy5jb3VudCAqIDEgfHwgMjA7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBhdmF0YXI9ezxBdmF0YXIgc3JjPXtpdGVtLmxvZ299IHNoYXBlPSJzcXVhcmUiIHNpemU9ImxhcmdlIiAvPn0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBBdmF0YXIsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCBjb3VudCA9IHBhcmFtcy5jb3VudCAqIDEgfHwgMjA7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBhdmF0YXI9ezxBdmF0YXIgc3JjPXtpdGVtLmxvZ299IHNoYXBlPSJzcXVhcmUiIHNpemU9ImxhcmdlIiAvPn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBBdmF0YXIsCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gbGlzdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
