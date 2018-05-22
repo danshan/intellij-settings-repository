@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1526625341403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/router.js" timestamp="1526951717205">
-        <mark key="[" line="89" column="94" />
-        <mark key="]" line="88" column="28" />
-        <mark key="." line="88" column="28" />
-        <mark key="^" line="88" column="28" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/router.js" timestamp="1526952830429">
+        <mark key="[" line="95" column="45" />
+        <mark key="]" line="95" column="45" />
+        <mark key="." line="95" column="45" />
+        <mark key="^" line="93" column="35" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" timestamp="1526634046638">
         <mark key="'" line="2" column="0" />
@@ -49,6 +49,11 @@
         <mark key="]" line="189" column="38" />
         <mark key="." line="189" column="38" />
         <mark key="^" line="189" column="38" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1526952507221">
+        <mark key="[" line="189" column="39" />
+        <mark key="]" line="189" column="39" />
+        <mark key="." line="189" column="39" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/list.js" timestamp="1526620734840">
         <mark key="'" line="10" column="39" />
@@ -103,10 +108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>list</text>
+        <text>List</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>List</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIDxGb3JtLkl0ZW0gbGFiZWxDb2w9e3sgc3BhbjogNSB9fSB3cmFwcGVyQ29sPXt7IHNwYW46IDE1IH19IGxhYmVsPSLmoIfpopgiPgogICAgICAgICAgICB7Zm9ybS5nZXRGaWVsZERlY29yYXRvcigndGl0bGUnLCB7CiAgICAgICAgICAgICAgcnVsZXM6IFt7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IHNvbWUgZGVzY3JpcHRpb24uLi4nIH1dLAogICAgICAgICAgICB9KSg8SW5wdXQgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpSIgLz4pfQo=</text>
