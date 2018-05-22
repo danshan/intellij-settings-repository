@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1526625341403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/router.js" timestamp="1526625153758">
-        <mark key="[" line="89" column="75" />
-        <mark key="]" line="89" column="84" />
-        <mark key="." line="89" column="84" />
-        <mark key="^" line="89" column="84" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/router.js" timestamp="1526951717205">
+        <mark key="[" line="89" column="94" />
+        <mark key="]" line="88" column="28" />
+        <mark key="." line="88" column="28" />
+        <mark key="^" line="88" column="28" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" timestamp="1526634046638">
         <mark key="'" line="2" column="0" />
@@ -31,8 +31,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/menu.js" timestamp="1526626521482">
-        <mark key="[" line="25" column="11" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/menu.js" timestamp="1526951703833">
+        <mark key="[" line="31" column="23" />
         <mark key="]" line="25" column="11" />
         <mark key="^" line="30" column="19" />
         <mark key="." line="25" column="11" />
@@ -43,12 +43,12 @@
         <mark key="." line="52" column="29" />
         <mark key="^" line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1526635811272">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1526951566207">
         <mark key="'" line="86" column="36" />
         <mark key="[" line="189" column="38" />
-        <mark key="]" line="201" column="70" />
-        <mark key="." line="201" column="70" />
-        <mark key="^" line="201" column="70" />
+        <mark key="]" line="189" column="38" />
+        <mark key="." line="189" column="38" />
+        <mark key="^" line="189" column="38" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/list.js" timestamp="1526620734840">
         <mark key="'" line="10" column="39" />
