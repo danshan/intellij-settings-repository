@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1526968865982">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/router.js" timestamp="1526954849258">
-        <mark key="[" line="89" column="100" />
-        <mark key="]" line="89" column="100" />
-        <mark key="." line="89" column="100" />
-        <mark key="^" line="89" column="55" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/router.js" timestamp="1526974812834">
+        <mark key="[" line="101" column="39" />
+        <mark key="]" line="101" column="42" />
+        <mark key="." line="101" column="42" />
+        <mark key="^" line="101" column="42" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/components/StandardTable/index.js" timestamp="1526969352545" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" timestamp="1526969606810">
@@ -51,8 +51,8 @@
         <mark key="." line="56" column="33" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1526957975825">
-        <mark key="[" line="2" column="16" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1526974777249">
+        <mark key="[" line="194" column="46" />
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
@@ -123,40 +123,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pipelinelist</text>
+        <text>pipeline</text>
       </register>
       <register name="-" type="4">
-        <text>pipelinelist</text>
+        <text>pipeline</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICflj5HluIPmtYHmsLTnur8nLAogICAgICAgIHBhdGg6ICdwaXBlbGluZWxpc3QnLAogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICcvZGVwbG95bWVudC90YXN0bGlzdCc6IHsKICAgICAgY29tcG9uZW50OiBkeW5hbWljV3JhcHBlcihhcHAsIFsncGlwZWxpbmUnXSwgKCkgPT4gaW1wb3J0KCcuLi9yb3V0ZXMvRGVwbG95bWVudC9UYXNrTGlzdCcpKSwKICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnR0VUIC9hcGkvcGlwZWxpbmVzLzpwaXBlbGluZUlkL2RlcGxveW1lbnRzJzogcGFnaW5hdGVQaXBlbGluZURlcGxveW1lbnRMaXN0LAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAnR0VUIC9hcGkvcGlwZWxpbmVzLzpwaXBlbGluZUlkL2RlcGxveW1lbnRzJzogcGFnaW5hdGVQaXBlbGluZURlcGxveW1lbnRMaXN0LAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNyYz0iaHR0cHM6Ly9ndy5hbGlwYXlvYmplY3RzLmNvbS96b3Mvcm1zcG9ydGFsL1J6d3BkTG5obXZESlRvVGRmRFBlLnBuZyIK</text>
+        <text encoding="base64">ICAgICAgICAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsdD0i6L+Z5piv5LiA5Liq5qCH6aKYIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNyYz0iaHR0cHM6Ly9ndy5hbGlwYXlvYmplY3RzLmNvbS96b3Mvcm1zcG9ydGFsL1J6d3BkTG5obXZESlRvVGRmRFBlLnBuZyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsdD0i6L+Z5piv5LiA5Liq5qCH6aKYIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
