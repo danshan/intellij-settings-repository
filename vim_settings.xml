@@ -32,11 +32,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/menu.js" timestamp="1526951703833">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="30" column="19" />
-        <mark key="." line="25" column="11" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/menu.js" timestamp="1526973984373">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="15" />
+        <mark key="^" line="34" column="18" />
+        <mark key="." line="35" column="15" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Dashboard/Pipeline.js" timestamp="1526539399266">
         <mark key="[" line="52" column="21" />
@@ -123,13 +123,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>pipelinelist</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>pipelinelist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAnR0VUIC9hcGkvcGlwZWxpbmVzLzpwaXBlbGluZUlkJzogbG9hZFBpcGVsaW5lLAogICdHRVQgL2FwaS9waXBlbGluZXMvOnBpcGVsaW5lSWQvZGVwbG95bWVudHMnOiBwYWdpbmF0ZVBpcGVsaW5lRGVwbG95bWVudExpc3QsCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIG5hbWU6ICflj5HluIPmtYHmsLTnur8nLAogICAgICAgIHBhdGg6ICdwaXBlbGluZWxpc3QnLAogICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAnR0VUIC9hcGkvcGlwZWxpbmVzLzpwaXBlbGluZUlkL2RlcGxveW1lbnRzJzogcGFnaW5hdGVQaXBlbGluZURlcGxveW1lbnRMaXN0LAo=</text>
