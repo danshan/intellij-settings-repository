@@ -44,7 +44,7 @@
         <mark key="." line="52" column="29" />
         <mark key="^" line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1526972791559">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1526977460005">
         <mark key="'" line="411" column="64" />
         <mark key="[" line="56" column="33" />
         <mark key="]" line="56" column="33" />
@@ -56,6 +56,19 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/TaskList.js" timestamp="1526977475023">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Task.js" timestamp="1526977480064">
+        <mark key="'" line="0" column="51" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/list.js" timestamp="1526620734840">
         <mark key="'" line="10" column="39" />
@@ -124,13 +137,14 @@
       <jump line="43" column="32" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" />
       <jump line="142" column="77" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" />
       <jump line="407" column="64" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" />
+      <jump line="0" column="51" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Task.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bm9uZSA=</text>
+        <text encoding="base64">VGFibGVMaXN0IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm9uZSA=</text>
+        <text encoding="base64">VGFibGVMaXN0IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICcvZGVwbG95bWVudC90YXN0bGlzdCc6IHsKICAgICAgY29tcG9uZW50OiBkeW5hbWljV3JhcHBlcihhcHAsIFsncGlwZWxpbmUnXSwgKCkgPT4gaW1wb3J0KCcuLi9yb3V0ZXMvRGVwbG95bWVudC9UYXNrTGlzdCcpKSwKICAgIH0sCg==</text>
