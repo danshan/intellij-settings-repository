@@ -12,12 +12,12 @@
         <mark key="." line="89" column="100" />
         <mark key="^" line="89" column="55" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" timestamp="1526958893830">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="162" column="15" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="158" column="0" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" timestamp="1526964957998">
+        <mark key="'" line="270" column="1" />
+        <mark key="[" line="120" column="17" />
+        <mark key="]" line="302" column="37" />
+        <mark key="." line="302" column="37" />
+        <mark key="^" line="302" column="37" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" timestamp="1526959141686">
         <mark key="'" line="63" column="0" />
@@ -44,12 +44,12 @@
         <mark key="." line="52" column="29" />
         <mark key="^" line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1526959174074">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1526965312232">
         <mark key="'" line="96" column="36" />
-        <mark key="[" line="83" column="22" />
-        <mark key="]" line="83" column="41" />
-        <mark key="^" line="83" column="41" />
-        <mark key="." line="83" column="41" />
+        <mark key="[" line="83" column="38" />
+        <mark key="]" line="83" column="40" />
+        <mark key="^" line="83" column="40" />
+        <mark key="." line="83" column="40" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1526957975825">
         <mark key="[" line="2" column="16" />
@@ -72,19 +72,19 @@
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/List/BasicList.js" timestamp="1526955359684" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/package.json" timestamp="1526958119011" />
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" timestamp="1526958851901">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" timestamp="1526965005269">
         <mark key="'" line="142" column="57" />
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="9" column="64" />
-        <mark key="^" line="9" column="64" />
-        <mark key="." line="9" column="64" />
+        <mark key="[" line="142" column="34" />
+        <mark key="]" line="142" column="34" />
+        <mark key="^" line="142" column="35" />
+        <mark key="." line="142" column="34" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1526958750641">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1526965285697">
         <mark key="'" line="46" column="34" />
-        <mark key="[" line="85" column="31" />
-        <mark key="]" line="89" column="31" />
-        <mark key="." line="89" column="31" />
-        <mark key="^" line="89" column="31" />
+        <mark key="[" line="88" column="38" />
+        <mark key="]" line="89" column="67" />
+        <mark key="." line="89" column="67" />
+        <mark key="^" line="89" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -117,13 +117,14 @@
       <jump line="0" column="74" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" />
       <jump line="63" column="0" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" />
       <jump line="142" column="57" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" />
+      <jump line="270" column="1" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loadPipeline</text>
+        <text>items</text>
       </register>
       <register name="-" type="4">
-        <text>loadPipeline</text>
+        <text>items</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdHlwZTogJ3BpcGVsaW5lL2xvYWRQaXBlbGluZScsCiAgICAgIHBheWxvYWQ6IHsKICAgICAgICBwaXBlbGluZUlkOiB0aGlzLnByb3BzLm1hdGNoLnBhcmFtcy5waXBlbGluZUlkLAogICAgICB9LAo=</text>
