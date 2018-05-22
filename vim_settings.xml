@@ -71,10 +71,10 @@
         <mark key="." line="24" column="22" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/List/BasicList.js" timestamp="1526955359684" />
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/package.json" timestamp="1526975497481">
-        <mark key="[" line="77" column="18" />
-        <mark key="]" line="77" column="19" />
-        <mark key="." line="77" column="19" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/package.json" timestamp="1526976776236">
+        <mark key="[" line="8" column="59" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="8" column="59" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/.roadhogrc.mock.js" timestamp="1526973229779">
         <mark key="'" line="142" column="77" />
@@ -127,10 +127,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text encoding="base64">bm9uZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text encoding="base64">bm9uZSA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICcvZGVwbG95bWVudC90YXN0bGlzdCc6IHsKICAgICAgY29tcG9uZW50OiBkeW5hbWljV3JhcHBlcihhcHAsIFsncGlwZWxpbmUnXSwgKCkgPT4gaW1wb3J0KCcuLi9yb3V0ZXMvRGVwbG95bWVudC9UYXNrTGlzdCcpKSwKICAgIH0sCg==</text>
