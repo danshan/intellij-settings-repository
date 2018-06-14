@@ -131,12 +131,12 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" timestamp="1528945886978">
-        <mark key="'" line="62" column="45" />
-        <mark key="[" line="107" column="33" />
-        <mark key="]" line="107" column="31" />
-        <mark key="^" line="107" column="31" />
-        <mark key="." line="107" column="31" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" timestamp="1528948859302">
+        <mark key="'" line="63" column="45" />
+        <mark key="[" line="110" column="15" />
+        <mark key="]" line="110" column="14" />
+        <mark key="^" line="110" column="14" />
+        <mark key="." line="110" column="14" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/TableForm.js" timestamp="1528860526610" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/List/CardList.js" timestamp="1526969910408">
@@ -151,7 +151,7 @@
         <mark key="." line="299" column="18" />
         <mark key="^" line="299" column="19" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1528945801910">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1528948773065">
         <mark key="[" line="206" column="19" />
         <mark key="]" line="209" column="30" />
         <mark key="." line="209" column="30" />
@@ -252,40 +252,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>desc</text>
+        <text>pipeline</text>
       </register>
       <register name="-" type="4">
-        <text>desc</text>
+        <text>pipeline</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0OiBmaWVsZHMuZGVzYywK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBwaXBlbGluZTogYWN0aW9uLnBheWxvYWQuZGF0YSwKICAgICAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGFjdGlvbi5wYXlsb2FkLmRhdGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsK</text>
+        <text encoding="base64">ICAgICAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5zdGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwaXBlbGluZTogYWN0aW9uLnBheWxvYWQuZGF0YSwK</text>
+        <text encoding="base64">ICAgICAgICAuLi5zdGF0ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwaXBlbGluZTogYWN0aW9uLnBheWxvYWQuZGF0YSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQocm91dGVyUmVkdXgucHVzaChgL2RlcGxveW1lbnQvcGlwZWxpbmVzLyR7cmVzcG9uc2UuZGF0YS5pZH1gKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlc3BvbnNlLmRhdGEuaWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQocm91dGVyUmVkdXgucHVzaChgL2RlcGxveW1lbnQvcGlwZWxpbmVzLyR7cmVzcG9uc2UuZGF0YS5pZH1gKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlc3BvbnNlLmRhdGEuaWQpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
