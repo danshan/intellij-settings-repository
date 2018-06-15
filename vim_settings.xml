@@ -151,11 +151,10 @@
         <mark key="." line="299" column="18" />
         <mark key="^" line="299" column="19" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1529026458819">
-        <mark key="[" line="229" column="19" />
-        <mark key="]" line="231" column="0" />
-        <mark key="^" line="229" column="18" />
-        <mark key="." line="231" column="0" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1529028928149">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/package.json" timestamp="1527059278224">
         <mark key="'" line="77" column="18" />
@@ -252,40 +251,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMucGFnaW5hdGVQaXBlbGluZURlcGxveW1lbnRMaXN0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICBsb2FkQXBwQ29uZmlnID0gKHByb2plY3QsIG1vZHVsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGF5bG9hZDoge30sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogJ3J1bGUvZmV0Y2gnLAo=</text>
+        <text encoding="base64">ICBsb2FkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlY29yZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGF5bG9hZDogcGFyYW1zLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogJ3J1bGUvZmV0Y2gnLAo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKHsK</text>
+        <text encoding="base64">ICAgICAgcGF5bG9hZDoge30sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
