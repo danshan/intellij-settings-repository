@@ -9,7 +9,6 @@
         <mark key="^" line="323" column="19" />
         <mark key="." line="323" column="19" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/List/TableList.js" timestamp="1528857762030" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1528868138179">
         <mark key="[" line="112" column="71" />
         <mark key="]" line="112" column="60" />
@@ -59,7 +58,6 @@
         <mark key="." line="123" column="35" />
         <mark key="^" line="123" column="46" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/List/TableList.less" timestamp="1528856830726" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Task.js" timestamp="1526978875682">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -86,7 +84,6 @@
         <mark key="^" line="27" column="36" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/node_modules/antd/lib/table/Table.d.ts" timestamp="1528860629157" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1528945382063">
         <mark key="'" line="46" column="34" />
         <mark key="[" line="97" column="43" />
@@ -138,7 +135,6 @@
         <mark key="^" line="110" column="14" />
         <mark key="." line="110" column="14" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/TableForm.js" timestamp="1528860526610" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/List/CardList.js" timestamp="1526969910408">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -156,9 +152,9 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/package.json" timestamp="1527059278224">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/package.json" timestamp="1529374075078">
         <mark key="'" line="77" column="18" />
-        <mark key="[" line="7" column="36" />
+        <mark key="[" line="48" column="30" />
         <mark key="]" line="7" column="43" />
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
