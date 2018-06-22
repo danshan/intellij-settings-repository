@@ -4,18 +4,17 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/node_modules/antd/lib/table/Table.js" timestamp="1529474117867" />
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1529630397170">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1529633189578">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="51" column="30" />
-        <mark key="]" line="47" column="31" />
-        <mark key="^" line="47" column="31" />
-        <mark key="." line="47" column="31" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="45" column="9" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/EnvironmentForm.js" timestamp="1529573362494">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="89" column="19" />
-        <mark key="^" line="89" column="19" />
-        <mark key="." line="89" column="19" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/EnvironmentForm.js" timestamp="1529632718483">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/menu.js" timestamp="1529567243002">
         <mark key="[" line="49" column="17" />
@@ -29,12 +28,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/settings.js" timestamp="1529630516233">
-        <mark key="'" line="34" column="43" />
-        <mark key="[" line="0" column="52" />
-        <mark key="]" line="0" column="68" />
-        <mark key="." line="0" column="68" />
-        <mark key="^" line="0" column="68" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/settings.js" timestamp="1529632137337">
+        <mark key="'" line="35" column="43" />
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1529565648157">
         <mark key="'" line="191" column="38" />
@@ -58,25 +57,23 @@
         <mark key="." line="32" column="11" />
         <mark key="^" line="32" column="11" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/AppForm.js" timestamp="1529630386085">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/AppForm.js" timestamp="1529633240232">
         <mark key="'" line="118" column="9" />
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="26" />
-        <mark key="." line="41" column="26" />
-        <mark key="^" line="41" column="26" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/utils/request.js" timestamp="1529565139542">
-        <mark key="[" line="74" column="15" />
-        <mark key="]" line="74" column="15" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/utils/request.js" timestamp="1529631814396">
+        <mark key="[" line="65" column="55" />
+        <mark key="]" line="65" column="55" />
         <mark key="^" line="68" column="33" />
-        <mark key="." line="74" column="15" />
+        <mark key="." line="65" column="55" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1529630624689">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1529631940428">
         <mark key="'" line="46" column="34" />
-        <mark key="[" line="155" column="23" />
-        <mark key="]" line="155" column="26" />
-        <mark key="^" line="155" column="26" />
-        <mark key="." line="155" column="26" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/settings.js" timestamp="1529378772054">
         <mark key="[" line="51" column="12" />
@@ -100,6 +97,11 @@
         <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/TableForm.js" timestamp="1529475701668" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/style.less" timestamp="1529378373298">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1529567439548">
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
@@ -207,41 +209,41 @@
       <jump line="117" column="9" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/AppForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PUT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRkZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>PUT</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHVwZGF0ZUFwcExvY2tTdGF0dXMocGFyYW1zKSB7CiAgcmV0dXJuIHJlcXVlc3QoYC9hcGkvYXBwcy9sb2Nrc2AsIHsKICAgIG1ldGhvZDogJ1BVVCcsCiAgICBib2R5OiBwYXJhbXMsCiAgfSk7Cn0K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wYWdpbmF0ZUFwcExpc3QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGRkZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkOiByZXNwb25zZSwK</text>
+        <text encoding="base64">ICAgICAgdGhpcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DaGFuZ2UodGhpcy5zdGF0ZS5kYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkOiByZXNwb25zZSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAnY3JlYXRlZEVudicsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgeWllbGQgcHV0KHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DaGFuZ2UodGhpcy5zdGF0ZS5kYXRhKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMub25DaGFuZ2UodGhpcy5zdGF0ZS5kYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogJzIwJScsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
