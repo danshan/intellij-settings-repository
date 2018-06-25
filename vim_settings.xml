@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/node_modules/antd/lib/table/Table.js" timestamp="1529474117867" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1529650140720">
         <mark key="'" line="75" column="34" />
         <mark key="[" line="11" column="16" />
@@ -51,7 +50,6 @@
         <mark key="^" line="79" column="18" />
         <mark key="." line="79" column="18" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/node_modules/antd/es/list/index.js" timestamp="1529545483766" />
       <file name="/JavaScript Console" timestamp="1529643092952">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,7 +60,6 @@
         <mark key="." line="32" column="11" />
         <mark key="^" line="32" column="11" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/utils/utils.js" timestamp="1529653398959" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/utils/request.js" timestamp="1529631814396">
         <mark key="[" line="65" column="55" />
         <mark key="]" line="65" column="55" />
@@ -85,8 +82,6 @@
       <file name="/Dummy.txt" timestamp="1529655058741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.less" timestamp="1529646419393" />
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Forms/BasicForm.js" timestamp="1529655591826" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/common/router.js" timestamp="1529649912009">
         <mark key="[" line="109" column="43" />
         <mark key="]" line="109" column="53" />
@@ -100,7 +95,6 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/TableForm.js" timestamp="1529475701668" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/style.less" timestamp="1529646413299">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -112,12 +106,12 @@
         <mark key="^" line="376" column="31" />
         <mark key="." line="169" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" timestamp="1529656798061">
-        <mark key="'" line="86" column="26" />
-        <mark key="[" line="95" column="60" />
-        <mark key="]" line="96" column="26" />
-        <mark key="." line="96" column="26" />
-        <mark key="^" line="96" column="26" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" timestamp="1529890145782">
+        <mark key="'" line="109" column="26" />
+        <mark key="[" line="115" column="31" />
+        <mark key="]" line="115" column="31" />
+        <mark key="^" line="115" column="31" />
+        <mark key="." line="115" column="31" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/package.json" timestamp="1529374075078">
         <mark key="'" line="77" column="18" />
@@ -146,7 +140,6 @@
         <mark key="^" line="175" column="6" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Forms/AdvancedForm.js" timestamp="1529655867529" />
     </filemarks>
     <jumps>
       <jump line="0" column="34" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" />
@@ -238,41 +231,41 @@
       <jump line="86" column="26" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvYmopOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25maWdMb2FkaW5nOiBsb2FkaW5nLm1vZGVscy5hcHAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvYmopOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZW52LmlkfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGFwcENvbmZpZ01hcCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGFwcCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvYmopOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHtnZXRGaWVsZERlY29yYXRvcignbmFtZScsIHsKICAgICAgICAgICAgICAgICAgICAgICAgcnVsZXM6IFt7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAn56uv5Y+j5Y+3JyB9XSwKICAgICAgICAgICAgICAgICAgICAgIH0pKDxJbnB1dCBwbGFjZWhvbGRlcj0i6K+36L6T5YWl56uv5Y+j5Y+3IiAvPil9Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlciAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZ2V0RmllbGREZWNvcmF0b3IsIHZhbGlkYXRlRmllbGRzQW5kU2Nyb2xsLCBnZXRGaWVsZHNFcnJvciB9ID0gZm9ybTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
