@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1529909988489">
-        <mark key="'" line="99" column="34" />
-        <mark key="[" line="95" column="13" />
-        <mark key="]" line="95" column="13" />
-        <mark key="." line="95" column="13" />
-        <mark key="^" line="91" column="14" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1529914068091">
+        <mark key="'" line="104" column="34" />
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="49" column="19" />
+        <mark key="." line="49" column="19" />
+        <mark key="^" line="49" column="19" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/EnvironmentForm.js" timestamp="1529909803056">
         <mark key="'" line="0" column="12" />
@@ -66,11 +66,11 @@
         <mark key="^" line="68" column="33" />
         <mark key="." line="65" column="55" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/AppForm.js" timestamp="1529911965551">
-        <mark key="[" line="66" column="23" />
-        <mark key="]" line="66" column="21" />
-        <mark key="." line="66" column="21" />
-        <mark key="^" line="66" column="21" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/AppForm.js" timestamp="1529914099571">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="25" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="67" column="33" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1529649516014">
         <mark key="'" line="46" column="34" />
@@ -236,41 +236,41 @@
       <jump line="86" column="26" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>module</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG9Gb2N1cwo=</text>
       </register>
       <register name="-" type="4">
-        <text>module</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgcHJvamVjdDogYXBwLnByb2plY3QsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG9Gb2N1cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvU2VsZWN0Pgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE9wdGlvbiB2YWx1ZT0ibHVjeSI+THVjeTwvT3B0aW9uPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8U2VsZWN0IGRlZmF1bHRWYWx1ZT0ibHVjeSIgc3R5bGU9e3sgd2lkdGg6IDEyMCB9fSBkaXNhYmxlZD4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9IllpbWluZ2hlIj55aW1pbmdoZTwvT3B0aW9uPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxPcHRpb24gdmFsdWU9ImRpc2FibGVkIiBkaXNhYmxlZD5EaXNhYmxlZDwvT3B0aW9uPgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFwcC5hcHBUeXBlID0gYXBwLmFwcFR5cGUudmFsdWU7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IGRhdGE6IHsgY29udGVudDogbmV3RGF0YSB9IH0pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRhcmdldCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVzY3JpcHRpb246ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG9Gb2N1cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmFtZTogJycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvU2VsZWN0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
