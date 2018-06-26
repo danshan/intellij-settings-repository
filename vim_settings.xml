@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1529914068091">
-        <mark key="'" line="104" column="34" />
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="49" column="19" />
-        <mark key="." line="49" column="19" />
-        <mark key="^" line="49" column="19" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1529918512605">
+        <mark key="'" line="119" column="34" />
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="51" column="13" />
+        <mark key="." line="51" column="13" />
+        <mark key="^" line="48" column="19" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/EnvironmentForm.js" timestamp="1529909803056">
         <mark key="'" line="0" column="12" />
@@ -29,12 +29,12 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="86" column="50" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/settings.js" timestamp="1529649205910">
-        <mark key="'" line="48" column="42" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/settings.js" timestamp="1529918539680">
+        <mark key="'" line="54" column="42" />
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="10" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1529565648157">
         <mark key="'" line="191" column="38" />
@@ -72,12 +72,12 @@
         <mark key="." line="128" column="0" />
         <mark key="^" line="67" column="33" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1529649516014">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1529918600384">
         <mark key="'" line="46" column="34" />
-        <mark key="[" line="191" column="16" />
-        <mark key="]" line="184" column="32" />
-        <mark key="." line="184" column="32" />
-        <mark key="^" line="184" column="32" />
+        <mark key="[" line="196" column="37" />
+        <mark key="]" line="196" column="47" />
+        <mark key="." line="196" column="47" />
+        <mark key="^" line="196" column="47" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/settings.js" timestamp="1529649577118">
         <mark key="[" line="25" column="0" />
@@ -236,14 +236,14 @@
       <jump line="86" column="26" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG9Gb2N1cwo=</text>
+      <register name="&quot;" type="4">
+        <text>POST</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>POST</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJvamVjdDogYXBwLnByb2plY3QsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGNyZWF0ZUVudihwYXJhbXMpIHsKICByZXR1cm4gcmVxdWVzdCgnL2FwaS9zZXR0aW5ncy9lbnZzJywgewogICAgbWV0aG9kOiAnUE9TVCcsCiAgICBib2R5OiBwYXJhbXMsCiAgfSk7Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG9Gb2N1cwo=</text>
