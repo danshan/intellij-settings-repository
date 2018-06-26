@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1529918512605">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1529980174069">
         <mark key="'" line="119" column="34" />
         <mark key="[" line="51" column="13" />
-        <mark key="]" line="51" column="13" />
-        <mark key="." line="51" column="13" />
-        <mark key="^" line="48" column="19" />
+        <mark key="]" line="151" column="18" />
+        <mark key="." line="151" column="18" />
+        <mark key="^" line="151" column="18" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/EnvironmentForm.js" timestamp="1529909803056">
         <mark key="'" line="0" column="12" />
