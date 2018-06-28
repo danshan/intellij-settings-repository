@@ -36,10 +36,10 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/LogViewer.less" timestamp="1530150869994">
-        <mark key="[" line="16" column="3" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/LogViewer.less" timestamp="1530156638548">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1530090844584">
         <mark key="'" line="151" column="24" />
@@ -76,12 +76,12 @@
         <mark key="." line="128" column="0" />
         <mark key="^" line="67" column="33" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1530151721493">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/services/api.js" timestamp="1530155098438">
         <mark key="'" line="46" column="34" />
-        <mark key="[" line="212" column="48" />
-        <mark key="]" line="212" column="49" />
-        <mark key="." line="212" column="49" />
-        <mark key="^" line="212" column="49" />
+        <mark key="[" line="219" column="28" />
+        <mark key="]" line="219" column="37" />
+        <mark key="^" line="219" column="37" />
+        <mark key="." line="219" column="37" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/settings.js" timestamp="1529649577118">
         <mark key="[" line="25" column="0" />
@@ -111,10 +111,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/logviewer.js" timestamp="1530151656102">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/logviewer.js" timestamp="1530155200165">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1530152011457">
         <mark key="[" line="169" column="0" />
@@ -135,12 +136,12 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/LogViewer.js" timestamp="1530153926358">
-        <mark key="'" line="37" column="18" />
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="36" column="13" />
-        <mark key="^" line="36" column="12" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/LogViewer.js" timestamp="1530157997800">
+        <mark key="'" line="68" column="99" />
+        <mark key="[" line="87" column="12" />
+        <mark key="]" line="88" column="17" />
+        <mark key="." line="88" column="17" />
+        <mark key="^" line="88" column="17" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/AppConfigList.js" timestamp="1529649669866">
         <mark key="'" line="46" column="9" />
@@ -254,43 +255,44 @@
       <jump line="151" column="24" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" />
       <jump line="85" column="11" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/TaskList.js" />
       <jump line="37" column="18" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/LogViewer.js" />
+      <jump line="68" column="99" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/LogViewer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVxdWVzdChgL2FwaS9zZXR0aW5ncy9lbnZzLyR7cGFyYW1zLmlkfWAsIHsKICAgIG1ldGhvZDogJ1BVVCcsCiAgICBib2R5OiBwYXJhbXMsCiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIC5sYWJlbFllbGxvdyB7CiAgICAgIGNvbG9yOiB5ZWxsb3c7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGxvZ3M7Cg==</text>
+        <text encoding="base64">ICAgICAgfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9nLmNyZWF0ZVRpbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9ncyArIGxpbmU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2cpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29sbGVjdExpbmUgPSAobG9ncywgbGluZSkgPT4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9ncyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpYmVyaWFMb2dzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2liZXJpYUxvZ3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBsb2cuY3JlYXRlVGltZTsK</text>
+        <text encoding="base64">ICAgICAgY29sb3I6IHdoaXRlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
