@@ -42,12 +42,12 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1530496557333">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1530497692977">
         <mark key="'" line="217" column="42" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="117" column="10" />
-        <mark key="." line="103" column="0" />
+        <mark key="[" line="70" column="26" />
+        <mark key="]" line="70" column="25" />
+        <mark key="^" line="70" column="25" />
+        <mark key="." line="70" column="25" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/TaskList.js" timestamp="1530164071944">
         <mark key="'" line="38" column="15" />
@@ -270,40 +270,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>status</text>
+        <text>pageNum, pageSize, status</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>pageNum, pageSize, status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZXR1cm4gcmVxdWVzdChgL2FwaS9waXBlbGluZXMvJHtwYXJhbXMucGlwZWxpbmVJZH0vc3RhdHVzYCwgewogICAgbWV0aG9kOiAnUFVUJywKICAgIGJvZHk6IHBhcmFtcywKICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkVmFsdWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkVmFsdWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYWdlU2l6ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBwYWdlTnVtLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvZHk6IHBhcmFtcywK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkVmFsdWVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZDogJ1BPU1QnLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkVmFsdWVzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVxdWVzdCgnL2FwaS9waXBlbGluZXMnLCB7Cg==</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGJvZHk6IHBhcmFtcywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQocm91dGVyUmVkdXgucHVzaChgL2RlcGxveW1lbnQvcGlwZWxpbmVzLyR7cmVzcG9uc2UuZGF0YS5pZH1gKSk7Cg==</text>
+        <text encoding="base64">ICAgIG1ldGhvZDogJ1BPU1QnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlc3BvbnNlLmRhdGEuaWQpIHsK</text>
+        <text encoding="base64">ICByZXR1cm4gcmVxdWVzdCgnL2FwaS9waXBlbGluZXMnLCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
