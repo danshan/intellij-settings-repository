@@ -121,12 +121,12 @@
         <mark key="." line="415" column="43" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/form.js" timestamp="1530163968468" />
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" timestamp="1530589196430">
-        <mark key="'" line="99" column="47" />
-        <mark key="[" line="89" column="10" />
-        <mark key="]" line="89" column="10" />
-        <mark key="^" line="107" column="6" />
-        <mark key="." line="89" column="10" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" timestamp="1530600631111">
+        <mark key="'" line="89" column="14" />
+        <mark key="[" line="175" column="25" />
+        <mark key="]" line="175" column="25" />
+        <mark key="^" line="150" column="39" />
+        <mark key="." line="175" column="25" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/package.json" timestamp="1529374075078">
         <mark key="'" line="77" column="18" />
@@ -161,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="9" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" />
       <jump line="138" column="35" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" />
       <jump line="42" column="0" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" />
       <jump line="137" column="47" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" />
@@ -261,43 +260,44 @@
       <jump line="156" column="24" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" />
       <jump line="179" column="14" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" />
       <jump line="99" column="47" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" />
+      <jump line="89" column="14" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>content</text>
+        <text>this.state.iconLoading</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>this.state.iconLoading</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB1cGRhdGVBcHBDb25maWcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sICgpID0+IHtjb25zb2xlLmxvZyh0aGlzLnN0YXRlKX0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgYXBwTG9hZGluZyB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
+        <text encoding="base64">ICBzZXR0aW5nc0xvYWRpbmc6IGxvYWRpbmcubW9kZWxzLnNldHRpbmdzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBDb25maWdNYXA6IGNvbmZpZ3MsCg==</text>
+        <text encoding="base64">ICBhcHBMb2FkaW5nOiBsb2FkaW5nLm1vZGVscy5hcHAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IFB1cmVDb21wb25lbnQgfSBmcm9tICdyZWFjdCc7Cg==</text>
+        <text encoding="base64">ICAgIH0sICgpID0+IHtjb25zb2xlLmxvZyh0aGlzLnN0YXRlKX0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhcHBDb25maWdNYXA6IGNvbmZpZ3MsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXBwOiB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IFB1cmVDb21wb25lbnQgfSBmcm9tICdyZWFjdCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBDb25maWdNYXA6IGNvbmZpZ3MsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
