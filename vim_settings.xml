@@ -10,7 +10,7 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/AppLockList.js" timestamp="1530777848562">
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/AppLockList.js" timestamp="1531103208869">
         <mark key="'" line="137" column="0" />
         <mark key="[" line="171" column="6" />
         <mark key="]" line="170" column="8" />
@@ -131,6 +131,12 @@
         <mark key="]" line="39" column="18" />
         <mark key="." line="39" column="18" />
         <mark key="^" line="39" column="18" />
+      </file>
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/Pipeline.js" timestamp="1531102901558">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="239" column="106" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/form.js" timestamp="1530163968468" />
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" timestamp="1530681686998">
@@ -276,40 +282,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgPkNvbmZpZzwvYT4K</text>
       </register>
       <register name="-" type="4">
-        <text>aciton</text>
+        <text>search</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgPkNvbmZpZzwvYT4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGFzay5zdGF0dXMK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGFzayk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RhdGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbG9jay51cGRhdGVCeSA9IGFjdGlvbi5wYXlsb2FkLnVwZGF0ZUJ5Owo=</text>
+        <text encoding="base64">ICAgICAgdGFzay5zdGF0dXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
