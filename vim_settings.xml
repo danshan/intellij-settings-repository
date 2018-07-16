@@ -61,12 +61,12 @@
         <mark key="^" line="75" column="7" />
         <mark key="." line="75" column="7" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/TaskList.js" timestamp="1531710733269">
-        <mark key="'" line="160" column="13" />
-        <mark key="[" line="90" column="9" />
-        <mark key="]" line="88" column="37" />
-        <mark key="." line="88" column="37" />
-        <mark key="^" line="88" column="11" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/TaskList.js" timestamp="1531712709300">
+        <mark key="'" line="162" column="13" />
+        <mark key="[" line="125" column="23" />
+        <mark key="]" line="125" column="24" />
+        <mark key="." line="125" column="24" />
+        <mark key="^" line="125" column="24" />
       </file>
       <file name="/JavaScript Console" timestamp="1529643092952">
         <mark key="[" line="0" column="0" />
@@ -280,13 +280,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>重新发布</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>重新发布</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGAke3JlY29yZC5wcm9qZWN0fToke3JlY29yZC5tb2R1bGV9YCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPERpdmlkZXIgdHlwZT0idmVydGljYWwiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
