@@ -55,11 +55,11 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1530759333754">
-        <mark key="[" line="75" column="8" />
-        <mark key="]" line="75" column="7" />
-        <mark key="^" line="75" column="7" />
-        <mark key="." line="75" column="7" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/PipelineList.js" timestamp="1533804946492">
+        <mark key="[" line="273" column="67" />
+        <mark key="]" line="273" column="68" />
+        <mark key="^" line="273" column="68" />
+        <mark key="." line="273" column="68" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Deployment/TaskList.js" timestamp="1531720489230">
         <mark key="'" line="162" column="13" />
@@ -78,11 +78,12 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/utils/request.js" timestamp="1533800958631">
-        <mark key="[" line="81" column="14" />
-        <mark key="]" line="81" column="14" />
-        <mark key="^" line="80" column="23" />
-        <mark key="." line="81" column="14" />
+      <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/utils/request.js" timestamp="1533805778286">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="77" column="37" />
+        <mark key="]" line="77" column="37" />
+        <mark key="." line="77" column="37" />
+        <mark key="^" line="77" column="36" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/AppForm.js" timestamp="1530771722534">
         <mark key="'" line="165" column="0" />
@@ -104,7 +105,7 @@
         <mark key="^" line="36" column="10" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533800703322">
+      <file name="/Dummy.txt" timestamp="1533806192428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Dashboard/Workplace.js" timestamp="1532050887095">
@@ -196,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="19" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" />
       <jump line="0" column="74" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" />
       <jump line="63" column="0" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/pipeline.js" />
       <jump line="270" column="1" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/mock/pipeline.js" />
@@ -296,43 +296,44 @@
       <jump line="34" column="26" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/logviewer.js" />
       <jump line="0" column="73" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/task.js" />
       <jump line="71" column="0" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/utils/request.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/codes/personal/siberia/siberia-ui/src/utils/request.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>finalUrl</text>
+        <text>${new Date().getTime()}`;</text>
       </register>
       <register name="-" type="4">
-        <text>finalUrl</text>
+        <text>${new Date().getTime()}`;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaW5hbFVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZmluYWxVcmwgPSBgJHtmaW5hbFVybH0/YDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbFVybCA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2R2YS9mZXRjaCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICAgZmluYWxVcmwgPSBgJHtmaW5hbFVybH1gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBlcnJvciA9IG5ldyBFcnJvcihlcnJvcnRleHQpOwogIGVycm9yLm5hbWUgPSByZXNwb25zZS5zdGF0dXM7CiAgZXJyb3IucmVzcG9uc2UgPSByZXNwb25zZTsKICB0aHJvdyBlcnJvcjsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuZXdPcHRpb25zKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVycm9yID0gbmV3IEVycm9yKGVycm9ydGV4dCk7CiAgICBlcnJvci5uYW1lID0gcmVzcG9uc2Uuc3RhdHVzOwogICAgZXJyb3IucmVzcG9uc2UgPSByZXNwb25zZTsKICAgIHRocm93IGVycm9yOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaW5hbFVybCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVycm9ydGV4dCA9IGJvZHkuZGV0YWlsIHx8IGNvZGVNZXNzYWdlW3Jlc3BvbnNlLnN0YXR1c10gfHwgcmVzcG9uc2Uuc3RhdHVzVGV4dDsKICAgIG5vdGlmaWNhdGlvbi5lcnJvcih7CiAgICAgIG1lc3NhZ2U6IGDor7fmsYLplJnor68gJHtyZXNwb25zZS5zdGF0dXN9OiAke3Jlc3BvbnNlLnVybH1gLAogICAgICBkZXNjcmlwdGlvbjogZXJyb3J0ZXh0LAogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIG5ld09wdGlvbnMuZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBlcnJvcnRleHQgPSBqc29uLmRldGFpbCB8fCBjb2RlTWVzc2FnZVtyZXNwb25zZS5zdGF0dXNdIHx8IHJlc3BvbnNlLnN0YXR1c1RleHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
