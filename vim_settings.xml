@@ -282,7 +282,6 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/codes/longfor/gaia-gfs-data-redis/src/test/java/com/longfor/gaia/gfs/data/redis/ApplicationTests.java" timestamp="1539062026022" />
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-feign/src/main/java/com/longfor/gaia/gfs/web/feign/config/GraviteeConstant.java" timestamp="1537255848015">
         <mark key="[" line="11" column="40" />
         <mark key="]" line="11" column="40" />
@@ -922,7 +921,6 @@
         <mark key="^" line="0" column="84" />
         <mark key="." line="0" column="86" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2-sources.jar!/com/github/pagehelper/PageInfo.java" timestamp="1539056021719" />
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-feign/src/main/java/com/longfor/gaia/gfs/web/feign/config/LFFeignConfiguration.java" timestamp="1537328042668">
         <mark key="[" line="37" column="56" />
         <mark key="]" line="37" column="7" />
@@ -1037,7 +1035,6 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="49" column="43" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2-sources.jar!/com/github/pagehelper/QueryInterceptor.java" timestamp="1539050366052" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-metrics/src/main/java/com/longfor/daenerys3/web/metrics/config/MetricsDefaults.java" timestamp="1536046334524">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="35" />
@@ -2185,7 +2182,6 @@
         <mark key="." line="39" column="15" />
         <mark key="^" line="39" column="15" />
       </file>
-      <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-swagger/src/main/java/com/longfor/gaia/gfs/web/swagger/config/SwaggerProperties.java" timestamp="1539064239627" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-demo/daenerys3-demo-consumer/src/main/resources/application-dev.yml" timestamp="1536833488792">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="17" column="18" />
@@ -2318,11 +2314,11 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-swagger/src/test/java/com/longfor/gaia/gfs/web/swagger/config/SwaggerConfigTest.java" timestamp="1539064502993">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="28" />
-        <mark key="^" line="30" column="28" />
-        <mark key="." line="30" column="28" />
+      <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-swagger/src/test/java/com/longfor/gaia/gfs/web/swagger/config/SwaggerConfigTest.java" timestamp="1539065800783">
+        <mark key="[" line="36" column="76" />
+        <mark key="]" line="36" column="77" />
+        <mark key="^" line="43" column="84" />
+        <mark key="." line="36" column="77" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-swagger/src/main/java/com/longfor/daenerys3/web/swagger/config/SwaggerAutoConfigration.java" timestamp="1536205399389">
         <mark key="[" line="14" column="55" />
@@ -2348,7 +2344,6 @@
         <mark key="^" line="26" column="11" />
         <mark key="." line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/codes/longfor/gaia-gfs-data-mybatis/src/test/java/com/longfor/gaia/gfs/data/mybatis/Application.java" timestamp="1539062505785" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-feign/src/main/java/com/longfor/daenerys3/web/feign/config/GraviteeApiKey.java" timestamp="1535527350745">
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="15" />
@@ -2385,7 +2380,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/codes/longfor/gaia-gfs-core/src/main/java/com/longfor/gaia/gfs/core/config/SpringContextHolder.java" timestamp="1539062825926" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-core/src/main/resources/logging/logback-defaults.xml" timestamp="1535936518851">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2452,7 +2446,6 @@
         <mark key="^" line="29" column="94" />
         <mark key="." line="29" column="94" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2-sources.jar!/com/github/pagehelper/PageInterceptor.java" timestamp="1539048607166" />
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-data-redis/src/main/java/com/longfor/gaia/gfs/data/redis/config/DynamicRedisProperties.java" timestamp="1537260190878">
         <mark key="[" line="16" column="92" />
         <mark key="]" line="17" column="31" />
@@ -2537,7 +2530,6 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/longfor/gaia-gfs-data-mybatis/src/test/java/com/longfor/gaia/gfs/data/mybatis/ApplicationTests.java" timestamp="1539062765439" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-consul/src/main/java/com/longfor/daenerys3/web/consul/config/ConsulProperties.java" timestamp="1536896230089">
         <mark key="[" line="12" column="35" />
         <mark key="]" line="12" column="63" />
@@ -3481,8 +3473,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>P</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5027,43 +5019,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQb2RhbUludFZhbHVlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHZlcnNpb24gdjEuMAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImh0dHA6Ly9sb2NhbGhvc3Q6IiArIHNlcnZlclBvcnQgKyAiL3YyL2FwaS1kb2NzP2dyb3VwPTJfVXNlclBhdGgiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImh0dHA6Ly8xMjcuMC4wLjE6ODA4MC92Mi9hcGktZG9jcz9ncm91cD0yX1N5c3RlbVBhdGgiOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGh0dHA6Ly8xMjcuMC4wLjE6ODA4MC92Mi9hcGktZG9jcz9ncm91cD0yX1N5c3RlbVBhdGgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBlbWFpbDsK</text>
+        <text encoding="base64">ICAgIGh0dHA6Ly8xMjcuMC4wLjE6ODA4MC92Mi9hcGktZG9jcz9ncm91cD0yX1N5c3RlbVBhdGgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB1cmw7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBuYW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGNsYXNzIENvbnRhY3Qgewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAR2V0dGVyCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBlbWFpbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAU2V0dGVyCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB1cmw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
