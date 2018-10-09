@@ -1,0 +1,137 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <option name="DEFAULT_COMPILER" />
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+        </wildcardResourcePatterns>
+      </component>
+      <component name="CopyrightManager" default="" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/spring-session-1.0.1.RELEASE" value="PREVIEW" />
+            <entry key="$USER_HOME$/codes/personal/siberia" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectModuleManager">
+        <modules />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
+      <component name="PropertiesComponent">
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <patterns />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <properties />
+          <listeners />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+          <Host>localhost</Host>
+          <Port>5050</Port>
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/codes/personal/leetcode" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMEnabled" value="true" />
+        <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.20172085" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,47 @@
+<application>
+  <component name="libraryTable">
+    <library name="app-applib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/codes/longfor/pay/pbdbase/app/applib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/codes/longfor/pay/pbdbase/app/applib" recursive="false" />
+    </library>
+    <library name="applib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/codes/longfor/pay/pbdbase/applib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/codes/longfor/pay/pbdbase/applib" recursive="false" />
+    </library>
+    <library name="lib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/codes/longfor/pay/pbdbase/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/codes/longfor/pay/pbdbase/lib" recursive="false" />
+    </library>
+    <library name="otherlib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/codes/longfor/pay/pbdbase/otherlib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/codes/longfor/pay/pbdbase/otherlib" recursive="false" />
+    </library>
+    <library name="weblib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/codes/longfor/pay/pbdbase/weblib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/codes/longfor/pay/pbdbase/weblib" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/codes/longfor/pay/pbdbase/weblib" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/codes/longfor/pay/pbdbase/weblib" recursive="false" type="SOURCES" />
+    </library>
+  </component>
+</application>

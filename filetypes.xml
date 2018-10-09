@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern=".travis" type="PLAIN_TEXT" />
+      <mapping pattern="META-INF" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="profile" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping pattern="UserBankCardLogDao" type="XML" />
+    </extensionMap>
+  </component>
+</application>
