@@ -162,6 +162,11 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/.m2/settings.xml" timestamp="1539741552884">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-registry/src/main/java/com/longfor/daenerys3/web/registry/config/GatewayConfig.java" timestamp="1536365150993">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="12" column="3" />
@@ -3473,8 +3478,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>P</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5028,34 +5033,34 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImh0dHA6Ly9sb2NhbGhvc3Q6IiArIHNlcnZlclBvcnQgKyAiL3YyL2FwaS1kb2NzP2dyb3VwPTJfVXNlclBhdGgiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImh0dHA6Ly8xMjcuMC4wLjE6ODA4MC92Mi9hcGktZG9jcz9ncm91cD0yX1N5c3RlbVBhdGgiOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwvcGx1Z2luR3JvdXBzPiAtLT4K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGh0dHA6Ly8xMjcuMC4wLjE6ODA4MC92Mi9hcGktZG9jcz9ncm91cD0yX1N5c3RlbVBhdGgK</text>
+        <text encoding="base64">ICAgICAgICA8cGx1Z2luR3JvdXA+Y29tLnNwb3RpZnk8L3BsdWdpbkdyb3VwPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGh0dHA6Ly8xMjcuMC4wLjE6ODA4MC92Mi9hcGktZG9jcz9ncm91cD0yX1N5c3RlbVBhdGgK</text>
+        <text encoding="base64">ICAgIDwhLS0gPHBsdWdpbkdyb3Vwcz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImh0dHA6Ly8xMjcuMC4wLjE6ODA4MC92Mi9hcGktZG9jcz9ncm91cD0yX1N5c3RlbVBhdGgiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBlbWFpbDsK</text>
+        <text encoding="base64">ICAgIGh0dHA6Ly8xMjcuMC4wLjE6ODA4MC92Mi9hcGktZG9jcz9ncm91cD0yX1N5c3RlbVBhdGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB1cmw7Cg==</text>
+        <text encoding="base64">ICAgIGh0dHA6Ly8xMjcuMC4wLjE6ODA4MC92Mi9hcGktZG9jcz9ncm91cD0yX1N5c3RlbVBhdGgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
