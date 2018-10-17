@@ -138,7 +138,6 @@
         <mark key="." line="22" column="39" />
         <mark key="^" line="29" column="83" />
       </file>
-      <file name="$USER_HOME$/codes/longfor/gaia-gfs-demo/docs/mybatis_pagehelper.md" timestamp="1539067279028" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/test/java/com/longfor/daenerys3/web/core/ApplicationTests.java" timestamp="1536052101914">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="13" column="20" />
@@ -619,7 +618,6 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/codes/longfor/gaia-gfs-demo/docs/mybatis_mapper.md" timestamp="1539074605583" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-registry/src/main/java/com/longfor/daenerys3/web/registry/config/GatewayRegisterFactory.java" timestamp="1536369120420">
         <mark key="[" line="12" column="46" />
         <mark key="]" line="13" column="25" />
@@ -5146,5 +5144,8 @@
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
