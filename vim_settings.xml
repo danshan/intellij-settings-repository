@@ -317,6 +317,7 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/codes/apollo/pom.xml" timestamp="1539856549321" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-demo/daenerys3-demo-web/src/main/java/com/longfor/daenerys3/demo/web/Application.java" timestamp="1535439373719">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="22" />
@@ -617,7 +618,6 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-web/src/main/resources/application-dev.yml" timestamp="1539832621587" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-consul/src/main/java/com/longfor/daenerys3/web/consul/config/InstanceIdGenerator.java" timestamp="1535090746688">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="7" column="21" />
@@ -648,7 +648,7 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539844307435">
+      <file name="/Dummy.txt" timestamp="1539856313064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/main/java/com/longfor/daenerys3/web/core/endpoint/GitEndpoint.java" timestamp="1534820268375">
@@ -656,6 +656,12 @@
         <mark key="]" line="9" column="9" />
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/personal/codes/apollo/apollo-portal/src/main/scripts/startup.sh" timestamp="1539856261754">
+        <mark key="[" line="29" column="62" />
+        <mark key="]" line="29" column="61" />
+        <mark key="^" line="29" column="61" />
+        <mark key="." line="29" column="61" />
       </file>
       <file name="$USER_HOME$/codes/longfor/dragonshard2/src/main/resources/application-dev.yml" timestamp="1534754333153">
         <mark key="[" line="54" column="19" />
@@ -1008,6 +1014,7 @@
         <mark key="^" line="32" column="47" />
         <mark key="." line="32" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/personal/codes/apollo/scripts/build.sh" timestamp="1539856670751" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-etcd/daenerys3-web-etcd-discovery/src/main/java/com/longfor/daenerys3/web/etcd/discovery/EtcdLifecycle.java" timestamp="1534409786135">
         <mark key="[" line="72" column="59" />
         <mark key="]" line="72" column="58" />
@@ -1554,7 +1561,12 @@
         <mark key="^" line="106" column="39" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/codes/apollo/apollo-portal/src/main/java/com/ctrip/framework/apollo/portal/spi/configuration/AuthConfiguration.java" timestamp="1539843875526" />
+      <file name="$USER_HOME$/workspace/personal/codes/apollo/apollo-portal/pom.xml" timestamp="1539856590701">
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-demo/daenerys3-demo-consumer/src/main/java/com/longfor/daenerys3/demo/consumer/Application.java" timestamp="1536734815846">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1932,7 +1944,7 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/codes/apollo/apollo-portal/src/main/resources/application.yml" timestamp="1539844222198">
+      <file name="$USER_HOME$/workspace/personal/codes/apollo/apollo-portal/src/main/resources/application.yml" timestamp="1539855682866">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="22" />
         <mark key="." line="17" column="22" />
@@ -2051,7 +2063,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1539844307430">
+      <file name="/fragment.java" timestamp="1539856313052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
@@ -2525,7 +2537,6 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/codes/apollo/apollo-portal/src/main/java/com/ctrip/framework/apollo/portal/spi/configuration/LdapProperties.java" timestamp="1539843723031" />
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-jenkinsfile/gaia-gfs-data-consul/Jenkinsfile" timestamp="1537151274562">
         <mark key="[" line="9" column="146" />
         <mark key="]" line="9" column="156" />
@@ -5042,7 +5053,7 @@
         <text>CN=ServiceDEV,OU=test,DC=example,DC=com|CN=WebDEV,OU=test,DC=example,DC=com</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQb2RhbUludFZhbHVlXD4=</text>
+        <text>profile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVzZXJuYW1lOiByb290Cg==</text>
@@ -5082,15 +5093,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQb2RhbUludFZhbHVlXD4=</last-search>
+      <last-search>profile</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQb2RhbUludFZhbHVlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>profile</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5kXD4=</entry>
         <entry encoding="base64">XDxuZXdzXD4=</entry>
         <entry encoding="base64">XDxmdGxcPg==</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
@@ -5110,6 +5120,7 @@
         <entry encoding="base64">XDxwcm9maWxlc1w+</entry>
         <entry encoding="base64">XDxEYXRlXD4=</entry>
         <entry encoding="base64">XDxQb2RhbUludFZhbHVlXD4=</entry>
+        <entry>profile</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
