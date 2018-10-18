@@ -2,14 +2,42 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1539831656076">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1539831426462">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f532eff7-8166-4d2d-b30b-3dcc5ab1d2dd/console.sql" timestamp="1539831790347">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2N0cmlwY29ycC9hcG9sbG8vbWFzdGVyL3NjcmlwdHMvc3FsL2Fwb2xsb3BvcnRhbGRiLnNxbAo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>https://raw.githubusercontent.com/ctripcorp/apollo/master/scripts/sql/</text>
+      </register>
+      <register name="-" type="4">
+        <text>https://raw.githubusercontent.com/ctripcorp/apollo/master/scripts/sql/</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
