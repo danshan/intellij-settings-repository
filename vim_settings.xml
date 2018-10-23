@@ -821,7 +821,7 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540264481325">
+      <file name="/Dummy.txt" timestamp="1540271842305">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/main/java/com/longfor/daenerys3/web/core/endpoint/GitEndpoint.java" timestamp="1534820268375">
@@ -2154,7 +2154,11 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/personal/codes/apollo/apollo-portal/src/main/java/com/ctrip/framework/apollo/portal/spi/configuration/AuthConfiguration.java" timestamp="1540265943784" />
+      <file name="$USER_HOME$/workspace/personal/codes/apollo/apollo-portal/src/main/java/com/ctrip/framework/apollo/portal/spi/configuration/AuthConfiguration.java" timestamp="1540271429743">
+        <mark key="[" line="385" column="95" />
+        <mark key="]" line="385" column="95" />
+        <mark key="." line="385" column="95" />
+      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/convertor/PipelineConvertor.java" timestamp="1540175948824">
         <mark key="[" line="47" column="1" />
         <mark key="]" line="47" column="0" />
@@ -2778,7 +2782,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1540264481319">
+      <file name="/fragment.java" timestamp="1540271842299">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
@@ -2841,12 +2845,12 @@
         <mark key="^" line="3" column="143" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/AuthConfiguration.java" timestamp="1540265546587">
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/AuthConfiguration.java" timestamp="1540271707411">
         <mark key="'" line="160" column="34" />
-        <mark key="[" line="130" column="41" />
-        <mark key="]" line="131" column="42" />
-        <mark key="." line="131" column="42" />
-        <mark key="^" line="131" column="42" />
+        <mark key="[" line="135" column="101" />
+        <mark key="]" line="135" column="108" />
+        <mark key="." line="135" column="108" />
+        <mark key="^" line="135" column="108" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-demo/gaia-gfs-demo-web/src/main/java/com/longfor/gaia/gfs/demo/web/controller/UserController.java" timestamp="1537854399828">
         <mark key="[" line="111" column="81" />
@@ -4414,8 +4418,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -5960,7 +5964,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lodap</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw4XD4=</text>
