@@ -155,6 +155,19 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="239" column="106" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-ui/src/routes/User/Login.js" timestamp="1540266521192" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-ui/src/models/login.js" timestamp="1540266873599">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="54" />
+        <mark key="^" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-ui/src/services/api.js" timestamp="1540266841903">
+        <mark key="[" line="92" column="31" />
+        <mark key="]" line="92" column="36" />
+        <mark key="^" line="92" column="36" />
+        <mark key="." line="92" column="36" />
+      </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" timestamp="1530681686998">
         <mark key="'" line="89" column="14" />
         <mark key="[" line="60" column="28" />
@@ -306,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${new Date().getTime()}`;</text>
+        <text>login</text>
       </register>
       <register name="-" type="4">
-        <text>${new Date().getTime()}`;</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmluYWxVcmwgPSBgJHtmaW5hbFVybH0/YDsK</text>
