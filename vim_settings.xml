@@ -82,6 +82,12 @@
       <file name="/JavaScript Console" timestamp="1529643092952">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-ui/src/models/settings.js" timestamp="1540274408825">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/models/task.js" timestamp="1531719937871">
         <mark key="'" line="0" column="73" />
         <mark key="[" line="41" column="5" />
@@ -172,11 +178,11 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-ui/src/services/api.js" timestamp="1540273170474">
-        <mark key="[" line="105" column="19" />
-        <mark key="]" line="104" column="38" />
-        <mark key="^" line="104" column="38" />
-        <mark key="." line="104" column="38" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-ui/src/services/api.js" timestamp="1540274422664">
+        <mark key="[" line="267" column="19" />
+        <mark key="]" line="267" column="23" />
+        <mark key="^" line="266" column="29" />
+        <mark key="." line="267" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-ui/src/services/user.js" timestamp="1540272747415">
         <mark key="[" line="3" column="30" />
@@ -208,6 +214,12 @@
         <mark key="]" line="12" column="49" />
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-ui/src/routes/Settings/Settings.js" timestamp="1540274372088">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="13" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/package.json" timestamp="1529374075078">
         <mark key="'" line="78" column="18" />
@@ -353,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgZ2V0UnVsZSwgcG9zdFJ1bGUgfSBmcm9tICcuL21vY2svcnVsZSc7Cg==</text>
