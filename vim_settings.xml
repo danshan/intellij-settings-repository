@@ -162,11 +162,11 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-ui/src/services/api.js" timestamp="1540266841903">
-        <mark key="[" line="92" column="31" />
-        <mark key="]" line="92" column="36" />
-        <mark key="^" line="92" column="36" />
-        <mark key="." line="92" column="36" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-ui/src/services/api.js" timestamp="1540271425995">
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="85" column="19" />
+        <mark key="^" line="85" column="23" />
+        <mark key="." line="85" column="19" />
       </file>
       <file name="$USER_HOME$/codes/personal/siberia/siberia-ui/src/routes/Settings/App.js" timestamp="1530681686998">
         <mark key="'" line="89" column="14" />
@@ -319,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>login</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmluYWxVcmwgPSBgJHtmaW5hbFVybH0/YDsK</text>
