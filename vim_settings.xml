@@ -2902,12 +2902,11 @@
         <mark key="." line="31" column="71" />
         <mark key="^" line="31" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/TypeHandlerConfituration.java" timestamp="1540437287497">
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/TypeHandlerConfituration.java" timestamp="1540438396005">
         <mark key="'" line="40" column="30" />
-        <mark key="[" line="41" column="41" />
-        <mark key="]" line="41" column="41" />
-        <mark key="^" line="41" column="61" />
-        <mark key="." line="41" column="41" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-data-mybatis/src/main/java/com/longfor/daenerys3/data/mybatis/config/DynamicDataSourceAutoConfiguration.java" timestamp="1536334346002">
         <mark key="[" line="46" column="19" />
@@ -4636,8 +4635,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>JSONSimpleTypeHandler</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0cnkucmVnaXN0ZXIoTWFwLmNsYXNzLCBKU09OU2kuY2xhc3MpOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -6191,34 +6190,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0cnkucmVnaXN0ZXIoRW52LmNsYXNzLCBTdHJpbmdFbnVtVHlwZUhhbmRsZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0cnkucmVnaXN0ZXIoTWFwLmNsYXNzLCBKU09OU2kuY2xhc3MpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0cnkucmVnaXN0ZXIoTWFwLmNsYXNzLCBKU09OLmNsYXNzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+anNvbi1zaW1wbGU8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZWNvZGUuanNvbi1zaW1wbGU8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+anNvbi1zaW1wbGU8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZW1vLnNldEpzb25BcnIoTGlzdHMubmV3QXJyYXlMaXN0KG5ldyBEZW1vLk9iaigpLCBuZXcgRGVtby5PYmooKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZWNvZGUuanNvbi1zaW1wbGU8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OLnRvSlNPTigpCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEZW1vIGNyZWF0ZWQgPSBkZW1vTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShkZW1vLmdldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZW1vLnNldEpzb25BcnIoTGlzdHMubmV3QXJyYXlMaXN0KG5ldyBEZW1vLk9iaigpLCBuZXcgRGVtby5PYmooKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OLnRvSlNPTigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
