@@ -960,7 +960,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/longfor/gaia/gfs/gaia-gfs-data-mybatis/1.0.2-SNAPSHOT/gaia-gfs-data-mybatis-1.0.2-SNAPSHOT-sources.jar!/com/longfor/gaia/gfs/data/mybatis/config/typehandler/YamlTypeHandler.java" timestamp="1540549887698" />
+      <file name="$MAVEN_REPOSITORY$/com/longfor/gaia/gfs/gaia-gfs-data-mybatis/1.0.2-SNAPSHOT/gaia-gfs-data-mybatis-1.0.2-SNAPSHOT-sources.jar!/com/longfor/gaia/gfs/data/mybatis/config/typehandler/YamlTypeHandler.java" timestamp="1540550881981" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-core/README.md" timestamp="1536918917465">
         <mark key="[" line="35" column="23" />
         <mark key="]" line="35" column="24" />
@@ -1039,11 +1039,11 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/js/appconfigloglistController.js" timestamp="1540549622530">
-        <mark key="[" line="29" column="58" />
-        <mark key="]" line="29" column="67" />
-        <mark key="." line="29" column="67" />
-        <mark key="^" line="29" column="67" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/js/appconfigloglistController.js" timestamp="1540551441843">
+        <mark key="[" line="30" column="95" />
+        <mark key="]" line="32" column="48" />
+        <mark key="." line="32" column="48" />
+        <mark key="^" line="32" column="48" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-jenkinsfile/gaia-gfs-web-swagger/Jenkinsfile" timestamp="1538978148152">
         <mark key="[" line="18" column="9" />
@@ -1972,11 +1972,12 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/appconfigloglist.html" timestamp="1540547332534">
-        <mark key="[" line="59" column="120" />
-        <mark key="]" line="59" column="124" />
-        <mark key="^" line="59" column="124" />
-        <mark key="." line="59" column="124" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/appconfigloglist.html" timestamp="1540551629162">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="45" />
+        <mark key="^" line="96" column="27" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-registry/src/main/java/com/longfor/daenerys3/web/registry/config/GraviteeClientBuilder.java" timestamp="1536368353739">
         <mark key="[" line="16" column="8" />
@@ -4016,7 +4017,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="16" filename="$USER_HOME$/codes/longfor/gaia-gfs-demo/gaia-gfs-demo-web/src/main/resources/mapper/UserMapper.xml" />
       <jump line="8" column="18" filename="$USER_HOME$/codes/longfor/gaia-gfs-demo/gaia-gfs-demo-web/src/main/resources/db/data.sql" />
       <jump line="96" column="59" filename="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class" />
       <jump line="76" column="4" filename="$USER_HOME$/codes/longfor/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/config/WebMvcConfig.java" />
@@ -4116,6 +4116,7 @@
       <jump line="59" column="14" filename="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/src/main/java/com/longfor/gaia/gfs/data/mybatis/config/typehandler/YamlTypeHandler.java" />
       <jump line="129" column="53" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/resource/AppResource.java" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/impl/AppConfigRepoImpl.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/appconfigloglist.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4785,7 +4786,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXByZXNlbnRlci5hZGRDbGFzc1RhZyh0eXBlLCBUYWcuTUFQKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGxvZy5jb250ZW50IH19Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -6330,43 +6331,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbmV3IFJlcHJlc2VudGVyKCk7</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySW5mb0hvbGRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gQmFzZVNlcnZpY2UuZ2V0KCcvdjEvYXBpL2FwcHMvJyArIHBhcmFtc18uYXBwSWQgKyAnL2NvbmZpZ3MvbG9ncycsIHBhcmFtc18pLnRoZW4oCiAgICAgICAgICAgICAgICAgICAgICAgIGZ1bmN0aW9uIChkYXRhXykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRhdGFfOwogICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGxvZy5jb250ZW50IH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXByZXNlbnRlci5hZGRDbGFzc1RhZyh0eXBlLCBUYWcuTUFQKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9wdGlvbnMgPSBvcHRpb25zOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gLy5tb2RhbC1kaWFsb2cgLS0+Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPEFwcENvbmZpZ0xvZ0RUTz4gbG9hZExvZ0J5SWQoSW50ZWdlciBsb2dJZCk7Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIC8ubW9kYWwtY29udGVudCAtLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJhc2VSZXNwb25zZShwYWdlSW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
