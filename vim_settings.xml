@@ -665,11 +665,17 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/impl/AppServiceImpl.java" timestamp="1540779395465">
-        <mark key="[" line="222" column="18" />
-        <mark key="]" line="222" column="21" />
-        <mark key="^" line="222" column="21" />
-        <mark key="." line="222" column="21" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/impl/AppServiceImpl.java" timestamp="1540806128493">
+        <mark key="[" line="137" column="69" />
+        <mark key="]" line="137" column="68" />
+        <mark key="^" line="137" column="68" />
+        <mark key="." line="137" column="68" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/WebSocketEventListener.java" timestamp="1540806911519">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="104" />
+        <mark key="^" line="30" column="104" />
+        <mark key="." line="30" column="104" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-data-redis/src/main/java/com/longfor/daenerys3/data/redis/config/FactoryBuilder.java" timestamp="1535709118901">
         <mark key="[" line="20" column="13" />
@@ -953,9 +959,6 @@
         <mark key="]" line="24" column="36" />
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1540797950556">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/main/java/com/longfor/daenerys3/web/core/endpoint/GitEndpoint.java" timestamp="1534820268375">
         <mark key="[" line="8" column="3" />
@@ -2531,12 +2534,11 @@
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/templates/index.ftl" timestamp="1540798359370">
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/templates/index.ftl" timestamp="1540806317206">
         <mark key="'" line="46" column="80" />
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="34" column="4" />
-        <mark key="." line="34" column="4" />
-        <mark key="^" line="34" column="4" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-rabbitmq/src/test/java/com/longfor/gaia/gfs/data/mongo/config/ApplicationTests.java" timestamp="1539759055994">
         <mark key="[" line="0" column="34" />
@@ -2850,11 +2852,11 @@
         <mark key="." line="18" column="61" />
         <mark key="^" line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/js/appLockListController.js" timestamp="1540524310197">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="41" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="11" column="41" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/js/appLockListController.js" timestamp="1540808358333">
+        <mark key="[" line="66" column="42" />
+        <mark key="]" line="66" column="41" />
+        <mark key="." line="66" column="41" />
+        <mark key="^" line="66" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/pom.xml" timestamp="1540797593237">
         <mark key="[" line="26" column="1" />
@@ -3660,12 +3662,12 @@
         <mark key="." line="294" column="62" />
         <mark key="^" line="294" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/applocklist.html" timestamp="1540777019008">
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/applocklist.html" timestamp="1540808266636">
         <mark key="'" line="5" column="32" />
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
+        <mark key="[" line="64" column="59" />
+        <mark key="]" line="64" column="59" />
+        <mark key="^" line="64" column="69" />
+        <mark key="." line="64" column="59" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-feign/src/main/resources/META-INF/spring.factories" timestamp="1535530739942">
         <mark key="[" line="2" column="24" />
@@ -3962,6 +3964,7 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/WebSocketConfiguration.java" timestamp="1540806620776" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-demo/daenerys3-demo-consumer/src/main/java/com/longfor/daenerys3/demo/consumer/controller/DemoController.java" timestamp="1534835844651">
         <mark key="[" line="18" column="28" />
         <mark key="]" line="19" column="3" />
@@ -4895,7 +4898,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9InBsdWdpbnMvYm9vdHN0cmFwLXd5c2lodG1sNS9ib290c3RyYXAzLXd5c2lodG1sNS5hbGwubWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -6440,43 +6443,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVudV9ib2R5IA==</text>
+        <text>lock</text>
       </register>
       <register name="/" type="4">
         <text>ciJObs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PG5nLWluY2x1ZGUgc3JjPSInYXNzaXN0YW50L3RlbXBsYXRlcy9mb290ZXIuaHRtbCciLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWwuc3RhdHVzID0gbWVzc2FnZS5zdGF0dXM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9InBsdWdpbnMvYm9vdHN0cmFwLXd5c2lodG1sNS9ib290c3RyYXAzLXd5c2lodG1sNS5hbGwubWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSBCb290c3RyYXAgV1lTSUhUTUw1IC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9jay5sb2NrU3RhdHVzTGFiZWwgPSAiZmEgZmEtdW5sb2NrIHRleHQtZ3JlZW4iOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImJvd2VyX2NvbXBvbmVudHMvYm9vdHN0cmFwLWRhdGVwaWNrZXIvZGlzdC9qcy9ib290c3RyYXAtZGF0ZXBpY2tlci5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9jay5sb2NrU3RhdHVzRGVzYyA9ICLlvIDmlL7lj5HluIPkuK0iOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCEtLSBkYXRlcGlja2VyIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImJvd2VyX2NvbXBvbmVudHMvanF1ZXJ5LWtub2IvZGlzdC9qcXVlcnkua25vYi5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9jay5sb2NrU3RhdHVzTGFiZWwgPSAiZmEgZmEtbG9jayB0ZXh0LXllbGxvdyI7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSBqUXVlcnkgS25vYiBDaGFydCAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9jay5sb2NrU3RhdHVzRGVzYyA9ICLlj5HluIPplIHlrprkuK0iOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9InBsdWdpbnMvanZlY3Rvcm1hcC9qcXVlcnktanZlY3Rvcm1hcC13b3JsZC1taWxsLWVuLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAobG9jay5zdGF0dXMgPT0gMSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImJvd2VyX2NvbXBvbmVudHMvbW9ycmlzLmpzL21vcnJpcy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2NrLnVwZGF0ZUJ5ID0gbXNnLnVwZGF0ZUJ5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImJvd2VyX2NvbXBvbmVudHMvcmFwaGFlbC9yYXBoYWVsLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2NrLnN0YXR1cyA9IG1zZy5zdGF0dXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
