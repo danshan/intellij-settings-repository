@@ -791,7 +791,7 @@
         <mark key="^" line="335" column="9" />
         <mark key="." line="335" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/header_bar.html" timestamp="1540802917491" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/header_bar.html" timestamp="1540803494066" />
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-data-mybatis/src/main/resources/META-INF/spring.factories" timestamp="1539048352467">
         <mark key="[" line="5" column="69" />
         <mark key="]" line="5" column="69" />
@@ -2494,6 +2494,12 @@
         <mark key="]" line="2" column="57" />
         <mark key="." line="2" column="57" />
         <mark key="^" line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/dashboard.html" timestamp="1540805140707">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="50" />
+        <mark key="^" line="25" column="50" />
+        <mark key="." line="25" column="50" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-registry-client/src/main/java/com/longfor/daenerys3/web/registry/client/dto/RequestServiceReq.java" timestamp="1536658061023">
         <mark key="[" line="28" column="0" />
