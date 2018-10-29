@@ -195,6 +195,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/test/java/com/shanhh/siberia/web/DemoDataGenerator.java" timestamp="1540777228772">
+        <mark key="[" line="45" column="44" />
+        <mark key="]" line="45" column="43" />
+        <mark key="." line="45" column="43" />
+        <mark key="^" line="45" column="43" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-etcd/daenerys3-web-etcd-discovery/pom.xml" timestamp="1534386995288">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="21" />
@@ -1560,6 +1566,12 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/test/java/com/shanhh/siberia/web/ApplicationTest.java" timestamp="1540776861510">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/src/main/java/com/longfor/gaia/gfs/data/mybatis/config/typehandler/IntEnumTypeHandler.java" timestamp="1540436207053">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -2066,13 +2078,6 @@
         <mark key="]" line="11" column="3" />
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/src/main/java/com/longfor/gaia/gfs/data/mybatis/config/typehandler/YamlTypeHandler.java" timestamp="1540550717257">
-        <mark key="'" line="68" column="14" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="22" column="35" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-gateway-client/src/main/java/com/longfor/daenerys3/web/gateway/client/gravitee/GraviteeClient.java" timestamp="1536656687504">
         <mark key="[" line="55" column="37" />
@@ -3072,7 +3077,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1540549861059">
+      <file name="/fragment.java" timestamp="1540776829642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
@@ -3576,9 +3581,9 @@
         <mark key="." line="287" column="92" />
         <mark key="^" line="287" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/applocklist.html" timestamp="1540776103635">
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/applocklist.html" timestamp="1540777019008">
         <mark key="'" line="5" column="32" />
-        <mark key="[" line="5" column="32" />
+        <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="32" />
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
@@ -4030,7 +4035,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="70" filename="$USER_HOME$/codes/longfor/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/config/WebMvcConfig.java" />
       <jump line="84" column="0" filename="$USER_HOME$/codes/longfor/gaia-gfs-demo/gaia-gfs-demo-client/src/main/java/com/longfor/gaia/gfs/demo/client/req/UpdateUserReq.java" />
       <jump line="0" column="0" filename="$USER_HOME$/codes/longfor/gaia-gfs-web-metrics/pom.xml" />
       <jump line="3" column="21" filename="$USER_HOME$/codes/longfor/gaia-gfs-web-metrics/src/test/java/com/longfor/gaia/gfs/web/metrics/config/Application.java" />
@@ -4130,6 +4134,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/tasklist.html" />
       <jump line="40" column="25" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/applocklist.html" />
       <jump line="5" column="32" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/applocklist.html" />
+      <jump line="22" column="19" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/test/java/com/shanhh/siberia/web/DemoDataGenerator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4799,7 +4804,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3R5bGU9Im1pbi1oZWlnaHQ6IDgwMHB4OyI+</text>
+        <text>service</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -6344,43 +6349,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3R5bGU9Im1pbi1oZWlnaHQ6IDgwMHB4OyI+</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySW5mb0hvbGRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJsb2dpbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNlcnZpY2UiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRlbnQtd3JhcHBlciI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImxvbmdmb3IiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ib3ZlcmxheSI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBMb2FkaW5nIChyZW1vdmUgdGhlIGZvbGxvd2luZyB0byBzdG9wIHRoZSBsb2FkaW5nKS0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSAvLmJveC1ib2R5IC0tPgo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcudGVzdG5nLkFzc2VydC4qOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRlbnQtd3JhcHBlciI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBsZWFzZSB3YWl0IC4uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYm94LWJvZHkiPgo=</text>
+        <text encoding="base64">ICAgIC0tID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
