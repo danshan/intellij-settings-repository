@@ -3,8 +3,9 @@
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping pattern=".travis" type="PLAIN_TEXT" />
       <mapping pattern="META-INF" type="PLAIN_TEXT" />
+      <mapping pattern=".travis" type="PLAIN_TEXT" />
+      <mapping pattern="dashboardController" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
