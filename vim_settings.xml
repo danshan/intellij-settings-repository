@@ -3206,12 +3206,12 @@
         <mark key="^" line="93" column="23" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/impl/DashboardRepoImpl.java" timestamp="1540871704331">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="49" column="96" />
-        <mark key="]" line="49" column="95" />
-        <mark key="." line="49" column="95" />
-        <mark key="^" line="49" column="95" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/impl/DashboardRepoImpl.java" timestamp="1540877950579">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="55" column="49" />
+        <mark key="]" line="55" column="52" />
+        <mark key="." line="55" column="52" />
+        <mark key="^" line="55" column="52" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-data-mybatis/src/main/java/com/longfor/daenerys3/data/mybatis/YmlDynamicDataSourceProvider.java" timestamp="1534920611045">
         <mark key="[" line="6" column="14" />
@@ -3255,11 +3255,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/entity/po/DeployCnt.java" timestamp="1540869128856">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="19" />
-        <mark key="^" line="14" column="24" />
-        <mark key="." line="14" column="19" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/entity/po/DeployCnt.java" timestamp="1540877515533">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-consumer/src/main/resources/application-dev.yml" timestamp="1540360393327">
         <mark key="[" line="16" column="16" />
@@ -4219,7 +4219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="14" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/LdapProperties.java" />
       <jump line="54" column="24" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/LdapProperties.java" />
       <jump line="14" column="4" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/UserService.java" />
       <jump line="116" column="0" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/impl/LdapUserService.java" />
@@ -4319,6 +4318,7 @@
       <jump line="19" column="0" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-client/src/main/java/com/shanhh/siberia/client/dto/user/UserDTO.java" />
       <jump line="27" column="60" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/impl/DashboardRepoImpl.java" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/impl/DashboardRepoImpl.java" />
+      <jump line="45" column="35" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/impl/DashboardRepoImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -4987,8 +4987,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXgrKzsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -6533,43 +6533,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>ciJObs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KCIlcyAlcyIsIHllYXJuYW1lLCBEQVlfT0ZfV0VFSyhncm91cG5hbWUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBtb250aDoKICAgICAgICAgICAgICAgIHJldHVybiBTdHJpbmcuZm9ybWF0KCIlcy0lcyIsIHllYXJuYW1lLCBncm91cG5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXgrKzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTGlzdHMubmV3QXJyYXlMaXN0KHJlc3UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4Kys7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcmVzdWx0cyA9IExpc3RzLm5ld0xpbmtlZExpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZEluZGV4ID0gaW5kZXg7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZXBsb3lDbnRzLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkVmFsdWVzRm9yRW52KHZhbHVlc0ZvckVudiwgZGVwbG95Q250cy5zdWJMaXN0KHN0YXJ0SW5kZXgsIGVuZEluZGV4KSk7CiAgICAgICAgICAgICAgICBpbmRleCsrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVwbG95Q250Q2hhcnREVE8uU2VyaWVzIHNlcmllcyA9IG5ldyBEZXBsb3lDbnRDaGFydERUTy5TZXJpZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXBsb3lDbnRzLnN0cmVhbSgpLm1hcChjbnQgLT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VyaWVzLnNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
