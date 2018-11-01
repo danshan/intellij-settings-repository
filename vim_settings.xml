@@ -51,9 +51,6 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1541039576270">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/java/com/longfor/gaia/dy/assistant/repo/client/WxMessageResponse.java" timestamp="1541042491303">
         <mark key="[" line="11" column="14" />
         <mark key="]" line="11" column="13" />
@@ -1050,9 +1047,6 @@
         <mark key="]" line="24" column="36" />
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1540890746414">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/main/java/com/longfor/daenerys3/web/core/endpoint/GitEndpoint.java" timestamp="1534820268375">
         <mark key="[" line="8" column="3" />
@@ -3016,12 +3010,12 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/resources/static/assistant/js/contactlistController.js" timestamp="1541043020303">
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/resources/static/assistant/js/contactlistController.js" timestamp="1541043063444">
         <mark key="'" line="57" column="0" />
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="31" column="46" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="31" column="46" />
+        <mark key="[" line="44" column="37" />
+        <mark key="]" line="44" column="38" />
+        <mark key="^" line="44" column="38" />
+        <mark key="." line="44" column="38" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-data-redis/README.md" timestamp="1537150535565">
         <mark key="[" line="15" column="137" />
@@ -3113,7 +3107,7 @@
         <mark key="." line="39" column="81" />
         <mark key="^" line="39" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/resources/static/assistant/template/contactlist.html" timestamp="1541038400316">
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/resources/static/assistant/template/contactlist.html" timestamp="1541043044963">
         <mark key="[" line="55" column="70" />
         <mark key="]" line="55" column="71" />
         <mark key="^" line="63" column="50" />
@@ -4238,11 +4232,11 @@
         <mark key="^" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/java/com/longfor/gaia/dy/assistant/utils/PinyinUtils.java" timestamp="1541037413102">
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="30" />
-        <mark key="^" line="31" column="30" />
-        <mark key="." line="31" column="30" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/java/com/longfor/gaia/dy/assistant/utils/PinyinUtils.java" timestamp="1541043642728">
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="41" column="28" />
+        <mark key="." line="41" column="28" />
+        <mark key="^" line="41" column="43" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-data-redis/src/main/java/com/longfor/daenerys3/data/redis/config/DynamicRedisConnectionProvider.java" timestamp="1535699066408">
         <mark key="[" line="10" column="29" />
@@ -4256,12 +4250,12 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/java/com/longfor/gaia/dy/assistant/repo/convertor/UserConvertor.java" timestamp="1541041678734">
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/java/com/longfor/gaia/dy/assistant/repo/convertor/UserConvertor.java" timestamp="1541043712647">
         <mark key="'" line="21" column="5" />
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="34" column="22" />
-        <mark key="." line="34" column="22" />
-        <mark key="^" line="34" column="22" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="36" />
+        <mark key="." line="60" column="36" />
+        <mark key="^" line="60" column="36" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-gravitee-client/src/main/java/com/longfor/daenerys3/web/gravitee/client/dto/NewApiReq.java" timestamp="1536291222993">
         <mark key="[" line="6" column="24" />
@@ -5263,7 +5257,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>快来812拿快递</text>
+        <text>String.valueOf(c)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -6808,7 +6802,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>快来812拿快递</text>
+        <text>String.valueOf(c)</text>
       </register>
       <register name="/" type="4">
         <text>ciJObs</text>
@@ -6817,34 +6811,34 @@
         <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBwby5zZXRUb3VzZXIoIiIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldC5hZGQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSm9pbmVyLm9uKCJ8Iikuam9pbih0ZXh0LmdldFRvVXNlcnMoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5zZXRBZ2VudElkKGFzc2lzdGFudFByb3BlcnRpZXMuZ2V0QWdlbnRJZChtZXNzYWdlLmdldEFnZW50S2V5KCkpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oImFnZW50IG5vdCBmb3VuZCIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSm9pbmVyLm9uKCJ8Iikuam9pbih0ZXh0LmdldFRvVXNlcnMoKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0OiBkZXNjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5zZXRBZ2VudElkKGFzc2lzdGFudFByb3BlcnRpZXMuZ2V0QWdlbnRJZChtZXNzYWdlLmdldEFnZW50S2V5KCkpLm9yRWxzZVRocm93KCgpIC0+IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oImFnZW50IG5vdCBmb3VuZCIpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0OiBkZXNjCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAic2VuZCB0ZXh0IG1lc3NhZ2UiLCByZXNwb25zZSA9IEJhc2VSZXNwb25zZS5jbGFzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBXeFVzZXJEVE8gdG9EVE8oV3hVc2VyIHVzZXIpIHsKICAgICAgICBpZiAodXNlciA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICBXeFVzZXJEVE8gZHRvID0gbmV3IFd4VXNlckRUTygpOwogICAgICAgIEJlYW5VdGlscy5jb3B5UHJvcGVydGllcyh1c2VyLCBkdG8pOwogICAgICAgIGR0by5zZXRVc2VySWQodXNlci5nZXRVc2VyaWQoKSk7CiAgICAgICAgZHRvLnNldExlYWRlcih1c2VyLmdldElzbGVhZGVyKCkgPT0gMSk7CiAgICAgICAgZHRvLnNldERlcGFydG1lbnRzKHVzZXIuZ2V0RGVwYXJ0bWVudCgpKTsKICAgICAgICBkdG8uc2V0RGVwYXJ0bWVudHModXNlci5nZXREZXBhcnRtZW50KCkpOwogICAgICAgIGR0by5zZXRLZXl3b3JkcyhidWlsZEtleXdvcmRzKGR0bykpOwogICAgICAgIHJldHVybiBkdG87CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAic2VuZCB0ZXh0IG1lc3NhZ2UiLCByZXNwb25zZSA9IEJhc2VSZXNwb25zZS5jbGFzcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBXeFVzZXJEVE8gdG9EVE8oV3hVc2VyIHVzZXIpIHsKICAgICAgICBpZiAodXNlciA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICBXeFVzZXJEVE8gZHRvID0gbmV3IFd4VXNlckRUTygpOwogICAgICAgIEJlYW5VdGlscy5jb3B5UHJvcGVydGllcyh1c2VyLCBkdG8pOwogICAgICAgIGR0by5zZXRVc2VySWQodXNlci5nZXRVc2VyaWQoKSk7CiAgICAgICAgZHRvLnNldExlYWRlcih1c2VyLmdldElzbGVhZGVyKCkgPT0gMSk7CiAgICAgICAgZHRvLnNldERlcGFydG1lbnRzKHVzZXIuZ2V0RGVwYXJ0bWVudCgpKTsKICAgICAgICBkdG8uc2V0RGVwYXJ0bWVudHModXNlci5nZXREZXBhcnRtZW50KCkpOwogICAgICAgIGR0by5zZXRLZXl3b3JkcyhidWlsZEtleXdvcmRzKGR0bykpOwogICAgICAgIHJldHVybiBkdG87CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
