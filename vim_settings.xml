@@ -442,12 +442,11 @@
         <mark key="." line="15" column="112" />
         <mark key="^" line="14" column="118" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/java/com/longfor/gaia/dy/assistant/repo/convertor/MessageConvertor.java" timestamp="1541042848289">
-        <mark key="'" line="35" column="34" />
-        <mark key="[" line="19" column="96" />
-        <mark key="]" line="19" column="94" />
-        <mark key="." line="19" column="94" />
-        <mark key="^" line="19" column="94" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/java/com/longfor/gaia/dy/assistant/repo/convertor/MessageConvertor.java" timestamp="1541061202114">
+        <mark key="[" line="36" column="48" />
+        <mark key="]" line="36" column="47" />
+        <mark key="." line="36" column="47" />
+        <mark key="^" line="36" column="47" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-demo/gaia-gfs-demo-consumer/pom.xml" timestamp="1538965090683">
         <mark key="[" line="12" column="18" />
@@ -3025,12 +3024,12 @@
         <mark key="^" line="21" column="28" />
         <mark key="." line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/resources/static/assistant/js/contactlistController.js" timestamp="1541043063444">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="44" column="37" />
-        <mark key="]" line="44" column="38" />
-        <mark key="^" line="44" column="38" />
-        <mark key="." line="44" column="38" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/resources/static/assistant/js/contactlistController.js" timestamp="1541064094227">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="20" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-data-redis/README.md" timestamp="1537150535565">
         <mark key="[" line="15" column="137" />
@@ -3127,11 +3126,11 @@
         <mark key="." line="39" column="81" />
         <mark key="^" line="39" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/resources/static/assistant/template/contactlist.html" timestamp="1541056383420">
-        <mark key="[" line="63" column="52" />
-        <mark key="]" line="63" column="51" />
-        <mark key="^" line="63" column="51" />
-        <mark key="." line="63" column="51" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/resources/static/assistant/template/contactlist.html" timestamp="1541064306607">
+        <mark key="[" line="105" column="49" />
+        <mark key="]" line="105" column="49" />
+        <mark key="." line="105" column="49" />
+        <mark key="^" line="105" column="48" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/controller/error/DefaultExceptionHandler.java" timestamp="1537856488350">
         <mark key="[" line="81" column="59" />
@@ -4046,7 +4045,7 @@
         <mark key="^" line="29" column="94" />
         <mark key="." line="29" column="94" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/longfor/gaia/gfs/gaia-gfs-web-swagger/1.0.2-SNAPSHOT/gaia-gfs-web-swagger-1.0.2-20180929.064919-1-sources.jar!/com/longfor/gaia/gfs/web/swagger/config/SwaggerConfig.java" timestamp="1541054892651" />
+      <file name="$MAVEN_REPOSITORY$/com/longfor/gaia/gfs/gaia-gfs-web-swagger/1.0.2-SNAPSHOT/gaia-gfs-web-swagger-1.0.2-20180929.064919-1-sources.jar!/com/longfor/gaia/gfs/web/swagger/config/SwaggerConfig.java" timestamp="1541060129812" />
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/pom.xml" timestamp="1540513537882">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -5291,7 +5290,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Handler</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -6836,43 +6835,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Handler</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>ciJObs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoNDAwLCByZXN1bHQuZ2V0Qm9keSgpLmdldENvZGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZW50OiAkc2NvcGUuY3VzdG9tTXNnLmNvbnRlbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJhc2VSZXNwb25zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcuSl9jdXN0b21Nc2cnKS5tb2RhbCh7a2V5Ym9hcmQ6IHRydWUsIHNob3c6IHRydWV9KS5tb2RhbCgnaGlkZScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrU3RhdGUoZmFsc2UsICJsb25nZm9yIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoImxvbmdmb3IiLCByZXN1bHQuZ2V0Qm9keSgpLmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcuSl9jdXN0b21Nc2cnKS5tb2RhbCh7a2V5Ym9hcmQ6IHRydWUsIHNob3c6IHRydWV9KS5tb2RhbCgnc2hvdycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcmVzdWx0LmdldEJvZHkoKS5nZXRDb2RlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD5PbmUgZmluZSBib2R5JmhlbGxpcDs8L3A+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OLnJlc3VsdC5nZXRCb2R5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iIG5nLWNsaWNrPSJjdXN0b21Nc2dNb2RhbCh1c2VyKSI+6Ieq5a6aPC9idXR0b24+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmFzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldC5hZGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
