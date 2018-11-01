@@ -351,7 +351,7 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="60" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/controller/error/DefaultExceptionHandler.java" timestamp="1541056967187" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/controller/error/DefaultExceptionHandler.java" timestamp="1541058935179" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-registry/src/main/java/com/longfor/daenerys3/web/registry/service/RegisterService.java" timestamp="1536651190893">
         <mark key="[" line="12" column="88" />
         <mark key="]" line="12" column="103" />
@@ -2213,11 +2213,11 @@
         <mark key="^" line="44" column="94" />
         <mark key="." line="51" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-core/src/test/java/com/longfor/gaia/gfs/web/core/controller/ExceptionControllerTest.java" timestamp="1541056950404">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="55" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-core/src/test/java/com/longfor/gaia/gfs/web/core/controller/ExceptionControllerTest.java" timestamp="1541058905989">
+        <mark key="[" line="69" column="80" />
+        <mark key="]" line="69" column="80" />
+        <mark key="." line="69" column="80" />
+        <mark key="^" line="51" column="84" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-demo/gaia-gfs-demo-mockserver/src/main/resources/application.yml" timestamp="1537850151265">
         <mark key="[" line="14" column="18" />
@@ -3385,11 +3385,11 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-core/src/test/java/com/longfor/gaia/gfs/web/core/controller/ExceptionController.java" timestamp="1541056738865">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="27" />
-        <mark key="^" line="25" column="28" />
-        <mark key="." line="25" column="27" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-core/src/test/java/com/longfor/gaia/gfs/web/core/controller/ExceptionController.java" timestamp="1541058886901">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="30" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="30" column="30" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-monitor/pom.xml" timestamp="1534727538168">
         <mark key="[" line="34" column="21" />
@@ -5290,8 +5290,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoImxvbmdmb3IiLCByZXN1bHQuZ2V0Qm9keSgpLmdldE1lc3NhZ2UoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Handler</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -6836,7 +6836,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FORBIDDEN</text>
+        <text>Handler</text>
       </register>
       <register name="/" type="4">
         <text>ciJObs</text>
@@ -6845,34 +6845,34 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoNDAwLCByZXN1bHQuZ2V0Qm9keSgpLmdldENvZGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoImxvbmdmb3IiLCByZXN1bHQuZ2V0Qm9keSgpLmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJhc2VSZXNwb25zZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcmVzdWx0LmdldEJvZHkoKS5nZXRDb2RlKCkK</text>
+        <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrU3RhdGUoZmFsc2UsICJsb25nZm9yIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OLnJlc3VsdC5nZXRCb2R5KCkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoImxvbmdmb3IiLCByZXN1bHQuZ2V0Qm9keSgpLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcmVzdWx0LmdldEJvZHkoKS5nZXRDb2RlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OLnJlc3VsdC5nZXRCb2R5KCkK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmFzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldC5hZGQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYmFzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSm9pbmVyLm9uKCJ8Iikuam9pbih0ZXh0LmdldFRvVXNlcnMoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldC5hZGQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
