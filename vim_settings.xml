@@ -316,6 +316,7 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="11" column="7" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2.jar!/com/github/pagehelper/PageInfo.class" timestamp="1541122096975" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-demo/daenerys3-demo-web/src/main/docker/Dockerfile" timestamp="1536225528679">
         <mark key="[" line="49" column="29" />
         <mark key="]" line="48" column="39" />
