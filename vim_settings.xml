@@ -1025,6 +1025,13 @@
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/convertor/BearychatMsg.java" timestamp="1541396593892">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="0" column="60" />
+        <mark key="]" line="0" column="63" />
+        <mark key="^" line="0" column="63" />
+        <mark key="." line="0" column="63" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-registry/src/main/java/com/longfor/daenerys3/web/registry/Application.java" timestamp="1536643792963">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -4655,12 +4662,12 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/convertor/BearychatConvertor.java" timestamp="1541402191324">
-        <mark key="'" line="17" column="40" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="52" column="93" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/convertor/BearychatConvertor.java" timestamp="1541404672182">
+        <mark key="'" line="18" column="40" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="87" column="7" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/dto/GitVersionDTO.java" timestamp="1537144504458">
         <mark key="[" line="17" column="18" />
@@ -5613,7 +5620,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0TGluZXMuYWRkKFN0cmluZy5mb3JtYXQoIioqcHJvamVjdCoqOiAlcyIsIGZpZWxkcy5nZXRTdW1tYXJ5KCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBtc2cuc2V0VXNlcnMoU2V0cy5uZXdIYXNoU2V0KGV2ZW50LmdldFVzZXIoKS5nZXRLZXkoKSwgZmllbGRzLmdldFJlcG9ydGVyKCkuZ2V0S2V5KCksIGZpZWxkcy5nZXRBc3NpZ25lZSgpLmdldEtleSgpKSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -7158,28 +7165,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fields.getSummary()));</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>ciJObs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0TGluZXMuYWRkKFN0cmluZy5mb3JtYXQoIioqcHJvamVjdCoqOiAlcyIsIG1hcmtkb3duUHJvamVjdChmaWVsZHMuZ2V0UHJvamVjdCgpKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtc2cuc2V0VXNlcnMoYnVpbGRVc2VycyhldmVudCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0TGluZXMuYWRkKFN0cmluZy5mb3JtYXQoIioqcHJvamVjdCoqOiAlcyIsIGZpZWxkcy5nZXRTdW1tYXJ5KCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBtc2cuc2V0VXNlcnMoU2V0cy5uZXdIYXNoU2V0KGV2ZW50LmdldFVzZXIoKS5nZXRLZXkoKSwgZmllbGRzLmdldFJlcG9ydGVyKCkuZ2V0S2V5KCksIGZpZWxkcy5nZXRBc3NpZ25lZSgpLmdldEtleSgpKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0TGluZXMuYWRkKFN0cmluZy5mb3JtYXQoIioqcHJvamVjdCoqOiAlcyIsIGZpZWxkcy5nZXRTdW1tYXJ5KCkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkuZ2V0S2V5KCksIGZpZWxkcy5nZXRQcm9qZWN0KCkuZ2V0TmFtZSgpLCBldmVudC5nZXRJc3N1ZSgpLmdldFNlbGYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkK</text>
       </register>
       <register name="u" type="4">
         <text />
@@ -7188,13 +7195,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkuZ2V0S2V5KCksIGZpZWxkcy5nZXRQcm9qZWN0KCkuZ2V0TmFtZSgpLCBldmVudC5nZXRJc3N1ZSgpLmdldFNlbGYoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldFVzZXIoKS5nZXREaXNwbGF5TmFtZSgpLCBldmVudC5nZXRVc2VyKCkuZ2V0U2VsZigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJpdmF0ZSBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkuZ2V0S2V5KCksIGZpZWxkcy5nZXRQcm9qZWN0KCkuZ2V0TmFtZSgpLCBldmVudC5nZXRJc3N1ZSgpLmdldFNlbGYoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldFVzZXIoKS5nZXREaXNwbGF5TmFtZSgpLCBldmVudC5nZXRVc2VyKCkuZ2V0U2VsZigpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
