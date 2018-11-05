@@ -1608,6 +1608,12 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/Application.java" timestamp="1541383898143">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-consul/pom.xml" timestamp="1536200592196">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="22" column="32" />
@@ -2430,6 +2436,11 @@
         <mark key="]" line="41" column="3" />
         <mark key="^" line="41" column="3" />
         <mark key="." line="41" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/IntegerEnumConverterFactory.java" timestamp="1541135623793">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-data-mybatis/src/main/java/com/longfor/daenerys3/data/mybatis/DynamicDataSourceProvider.java" timestamp="1535698118377">
         <mark key="[" line="12" column="7" />
@@ -3714,6 +3725,11 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/js/dashboardController.js" timestamp="1541140676313">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="20" />
+        <mark key="." line="71" column="20" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-data-redis/src/main/java/com/longfor/daenerys3/data/redis/YamlDynamicRedisPoolProvider.java" timestamp="1535074200454">
         <mark key="[" line="37" column="20" />
         <mark key="]" line="37" column="20" />
@@ -3936,6 +3952,11 @@
         <mark key="]" line="14" column="13" />
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/pom.xml" timestamp="1541038873705">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/resources/static/assistant/template/tasklist.html" timestamp="1540889461958">
         <mark key="[" line="110" column="22" />
@@ -4434,6 +4455,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="36" column="47" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/convertor/BearychatConvertor.java" timestamp="1541384390971">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/dto/GitVersionDTO.java" timestamp="1537144504458">
         <mark key="[" line="17" column="18" />
@@ -5379,8 +5405,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>WARN</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -6934,34 +6960,34 @@
         <text encoding="base64">ICAgIGNvbS5sb25nZm9yOiBXQVJOCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbS5zaGFuaGg6IElORk8K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHtTaWJlcmlhUHJvcGVydGllcy5jbGFzc30pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZVNjaGVkdWxpbmcK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdG9CQygpIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbS5zaGFuaGg6IElORk8K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHtTaWJlcmlhUHJvcGVydGllcy5jbGFzc30pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QEVuYWJsZVNjaGVkdWxpbmcK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
