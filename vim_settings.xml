@@ -129,11 +129,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/BearychatClient.java" timestamp="1541398437850">
-        <mark key="[" line="12" column="89" />
-        <mark key="]" line="12" column="89" />
-        <mark key="^" line="12" column="89" />
-        <mark key="." line="12" column="89" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/BearychatClient.java" timestamp="1541406216699">
+        <mark key="[" line="14" column="73" />
+        <mark key="]" line="14" column="72" />
+        <mark key="." line="14" column="72" />
+        <mark key="^" line="14" column="72" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-etcd/daenerys3-web-etcd-discovery/pom.xml" timestamp="1534386995288">
         <mark key="[" line="32" column="21" />
@@ -3469,11 +3469,10 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="0" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/resources/application-dev.yml" timestamp="1541397331840">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="17" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/resources/application-dev.yml" timestamp="1541406903261">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/src/test/java/com/longfor/gaia/gfs/data/mybatis/config/DalConfig.java" timestamp="1540184713990">
         <mark key="[" line="6" column="46" />
@@ -3584,7 +3583,7 @@
         <mark key="^" line="100" column="31" />
         <mark key="." line="124" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/Application.java" timestamp="1541382934402">
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/Application.java" timestamp="1541407443358">
         <mark key="[" line="35" column="1" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -4022,6 +4021,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/BearychatMsgClient.java" timestamp="1541406192969">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="32" />
       </file>
       <file name="$USER_HOME$/codes/personal/filescanner/src/main/java/com/shanhh/filescanner/config/DalConfig.java" timestamp="1535955029840">
         <mark key="[" line="10" column="65" />
@@ -4463,6 +4468,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/dto/BearychatUser.java" timestamp="1541406830421">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-demo/src/main/resources/db/schema.sql" timestamp="1534413564034">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="2" />
@@ -4620,11 +4631,11 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/BearychatService.java" timestamp="1541398181126">
-        <mark key="[" line="9" column="62" />
-        <mark key="]" line="9" column="72" />
-        <mark key="^" line="9" column="72" />
-        <mark key="." line="9" column="72" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/BearychatService.java" timestamp="1541406328916">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/LdapProperties.java" timestamp="1540264698658">
         <mark key="[" line="16" column="14" />
@@ -4771,11 +4782,11 @@
         <mark key="^" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/impl/BearychatServiceImpl.java" timestamp="1541400980206">
-        <mark key="[" line="39" column="53" />
-        <mark key="]" line="39" column="51" />
-        <mark key="." line="39" column="51" />
-        <mark key="^" line="39" column="51" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/impl/BearychatServiceImpl.java" timestamp="1541407413804">
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/workflow/executor/TaskStartExecutor.java" timestamp="1540292343012">
         <mark key="[" line="68" column="58" />
@@ -5619,8 +5630,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cuc2V0VXNlcnMoU2V0cy5uZXdIYXNoU2V0KGV2ZW50LmdldFVzZXIoKS5nZXRLZXkoKSwgZmllbGRzLmdldFJlcG9ydGVyKCkuZ2V0S2V5KCksIGZpZWxkcy5nZXRBc3NpZ25lZSgpLmdldEtleSgpKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Lists.newLinkedList();</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -7165,43 +7176,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>Lists.newLinkedList();</text>
       </register>
       <register name="/" type="4">
         <text>ciJObs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cuc2V0VXNlcnMoYnVpbGRVc2VycyhldmVudCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRlYW1JZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cuc2V0VXNlcnMoU2V0cy5uZXdIYXNoU2V0KGV2ZW50LmdldFVzZXIoKS5nZXRLZXkoKSwgZmllbGRzLmdldFJlcG9ydGVyKCkuZ2V0S2V5KCksIGZpZWxkcy5nZXRBc3NpZ25lZSgpLmdldEtleSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlcnMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNlTXNnLmdldFVzZXJzKCkuYWRkKCJzaGFuaG9uZ2hhbyIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0TGluZXMuYWRkKFN0cmluZy5mb3JtYXQoIioqcHJvamVjdCoqOiAlcyIsIGZpZWxkcy5nZXRTdW1tYXJ5KCkpKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJza3lwZSI6IG51bGwK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkuZ2V0S2V5KCksIGZpZWxkcy5nZXRQcm9qZWN0KCkuZ2V0TmFtZSgpLCBldmVudC5nZXRJc3N1ZSgpLmdldFNlbGYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJwb3NpdGlvbiI6IG51bGwsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiYmlvIjogbnVsbCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldElzc3VlKCkuZ2V0S2V5KCksIGZpZWxkcy5nZXRQcm9qZWN0KCkuZ2V0TmFtZSgpLCBldmVudC5nZXRJc3N1ZSgpLmdldFNlbGYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInByb2ZpbGUiOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldFVzZXIoKS5nZXREaXNwbGF5TmFtZSgpLCBldmVudC5nZXRVc2VyKCkuZ2V0U2VsZigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm1vYmlsZSI6IG51bGwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
