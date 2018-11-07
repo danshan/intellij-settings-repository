@@ -720,6 +720,7 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-mdp-app/src/main/java/com/wanda/mdp/MdpAppApplication.java" timestamp="1541571756181" />
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-client/src/main/java/com/shanhh/siberia/client/dto/settings/EnvUpdateReq.java" timestamp="1540260081763">
         <mark key="[" line="27" column="31" />
         <mark key="]" line="18" column="6" />
@@ -1019,6 +1020,13 @@
         <mark key="]" line="20" column="21" />
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/convertor/BearychatMsg.java" timestamp="1541396593892">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="0" column="60" />
+        <mark key="]" line="0" column="63" />
+        <mark key="^" line="0" column="63" />
+        <mark key="." line="0" column="63" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-registry/src/main/java/com/longfor/daenerys3/web/registry/Application.java" timestamp="1536643792963">
         <mark key="[" line="11" column="0" />
@@ -3246,6 +3254,13 @@
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-mdp-app/pom.xml" timestamp="1541571716109">
+        <mark key="'" line="48" column="10" />
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="11" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-core/src/main/java/com/longfor/gaia/gfs/core/response/BaseResponse.java" timestamp="1540892075641">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="28" />
@@ -3276,6 +3291,7 @@
         <mark key="^" line="16" column="26" />
         <mark key="." line="16" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-mdp-app/src/main/java/com/wanda/mdp/config/RestTemplateConfig.java" timestamp="1541571892360" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-etcd/daenerys3-web-etcd-core/src/main/resources/spring.factories" timestamp="1534387226151">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="52" />
@@ -4624,6 +4640,13 @@
         <mark key="^" line="36" column="47" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/convertor/BearychatConvertor.java" timestamp="1541404672182">
+        <mark key="'" line="18" column="40" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="87" column="7" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/dto/GitVersionDTO.java" timestamp="1537144504458">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="17" column="29" />
@@ -4800,7 +4823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/impl/AppHostRepoImpl.java" />
       <jump line="184" column="92" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/impl/AppServiceImpl.java" />
       <jump line="49" column="26" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/impl/AppConfigRepoImpl.java" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/impl/AppConfigRepoImpl.java" />
@@ -4900,6 +4922,7 @@
       <jump line="26" column="0" filename="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/service/jira/dto/Changelog.java" />
       <jump line="70" column="21" filename="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/impl/BearychatServiceImpl.java" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/integration/bearychat/impl/BearychatServiceImpl.java" />
+      <jump line="47" column="10" filename="$USER_HOME$/workspace/longfor/codes/gaia-mdp-app/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -5568,8 +5591,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9iamVjdE1hcHBlci5kaXNhYmxlKFNlcmlhbGl6YXRpb25GZWF0dXJlLkZBSUxfT05fRU1QVFlfQkVBTlMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>gfs</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -7114,13 +7137,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Serializable</text>
+        <text>gfs</text>
       </register>
       <register name="/" type="4">
         <text>ciJObs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QEFwaVZlcnNpb24oezEsMn0pCg==</text>
+        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20ubG9uZ2Zvci5nYWlhLmdmczwvZ3JvdXBJZD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLm9iamVjdE1hcHBlci5kaXNhYmxlKFNlcmlhbGl6YXRpb25GZWF0dXJlLkZBSUxfT05fRU1QVFlfQkVBTlMpOwo=</text>
