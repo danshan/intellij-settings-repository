@@ -196,6 +196,7 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="42" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-redis/src/test/java/com/longfor/gaia/gfs/data/redis/ApplicationTests.java" timestamp="1541755852768" />
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/Application.java" timestamp="1541382942125">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="16" column="43" />
@@ -1657,11 +1658,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-unittest/src/test/java/com/longfor/gaia/gfs/demo/unittest/repo/UserRepoImplTest.java" timestamp="1541755342914">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="5" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-unittest/src/test/java/com/longfor/gaia/gfs/demo/unittest/repo/UserRepoImplTest.java" timestamp="1541757428116">
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="36" column="32" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/main/java/com/longfor/daenerys3/web/core/mapper/GitVersionMapper.java" timestamp="1534905071243">
         <mark key="[" line="14" column="14" />
@@ -1921,6 +1922,12 @@
         <mark key="]" line="10" column="17" />
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.pom" timestamp="1541756197158">
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="6" />
+        <mark key="^" line="17" column="6" />
+        <mark key="." line="17" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/convertor/EnvEnumConverter.java" timestamp="1541126776960">
         <mark key="[" line="6" column="8" />
@@ -3491,7 +3498,7 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-unittest/src/main/java/com/longfor/gaia/gfs/demo/unittest/repo/UserRepoImpl.java" timestamp="1541754597232">
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-unittest/src/main/java/com/longfor/gaia/gfs/demo/unittest/repo/UserRepoImpl.java" timestamp="1541757050166">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="20" column="5" />
         <mark key="." line="20" column="5" />
@@ -4728,11 +4735,11 @@
         <mark key="^" line="46" column="32" />
         <mark key="." line="46" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-unittest/pom.xml" timestamp="1541755673610">
-        <mark key="[" line="62" column="21" />
-        <mark key="]" line="68" column="18" />
-        <mark key="^" line="68" column="18" />
-        <mark key="." line="68" column="18" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-unittest/pom.xml" timestamp="1541756069596">
+        <mark key="[" line="60" column="48" />
+        <mark key="]" line="52" column="20" />
+        <mark key="^" line="52" column="20" />
+        <mark key="." line="52" column="20" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/main/java/com/longfor/daenerys3/web/core/config/LFHttpServletRequestWrapper.java" timestamp="1536045534673">
         <mark key="[" line="57" column="0" />
@@ -5969,7 +5976,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -7514,43 +7521,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>ciJObs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIFJlZGlzVGVtcGxhdGUgZGVtb1JlZGlzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrU3RhdGljKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4xMjwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICB1c2VyUmVwby5sb2FkVXNlckJ5SWQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+bW9jazwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGRlbW9SZWRpcy5vcHNGb3JWYWx1ZSgpLikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xMC4xOTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4xMjwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGJlZm9yZU1ldGhvZCgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLndhcm4oIkNvbm5lY3QgcmVkaXMgZmFpbGVkLiB7fSIsIGUuZ2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgIEBCZWZvcmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
