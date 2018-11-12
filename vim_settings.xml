@@ -45,9 +45,6 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1542002957859">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-demo/gaia-gfs-demo-web/src/main/java/com/longfor/gaia/gfs/demo/web/repo/dao/mapper/UserMapper.xml" timestamp="1537854040016">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="24" />
@@ -143,6 +140,12 @@
         <mark key="]" line="32" column="21" />
         <mark key="^" line="40" column="20" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/convertor/SubscribeConvertor.java" timestamp="1542014581294">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
       </file>
       <file name="$USER_HOME$/codes/longfor/dragonshard2/pom.xml" timestamp="1534298325451">
         <mark key="[" line="7" column="18" />
@@ -246,11 +249,11 @@
         <mark key="^" line="12" column="103" />
         <mark key="." line="12" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/pom.xml" timestamp="1542011283987">
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/pom.xml" timestamp="1542014862601">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-swagger/src/main/java/com/longfor/gaia/gfs/web/swagger/config/SwaggerAutoConfigration.java" timestamp="1537251747338">
         <mark key="[" line="15" column="60" />
@@ -390,11 +393,11 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/impl/PushJobRepoImpl.java" timestamp="1542012774207">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/impl/PushJobRepoImpl.java" timestamp="1542016848302">
+        <mark key="[" line="36" column="47" />
+        <mark key="]" line="36" column="46" />
+        <mark key="^" line="36" column="46" />
+        <mark key="." line="36" column="46" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/test/java/com/longfor/daenerys3/web/core/controller/SimpleVersionControllerTest.java" timestamp="1536372070460">
         <mark key="[" line="37" column="85" />
@@ -588,9 +591,6 @@
         <mark key="^" line="335" column="9" />
         <mark key="." line="335" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/Payload.java" timestamp="1542012759954">
-        <mark key="[" line="6" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/src/main/java/com/longfor/gaia/chatops/agent/service/jira/dto/StatusCategory.java" timestamp="1541395498387">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -753,11 +753,11 @@
         <mark key="." line="32" column="48" />
         <mark key="^" line="32" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/impl/SubscribeRepoImpl.java" timestamp="1542013172023">
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/impl/SubscribeRepoImpl.java" timestamp="1542016252216">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="71" />
+        <mark key="." line="30" column="71" />
+        <mark key="^" line="30" column="71" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-jenkinsfile/gaia-gfs-web-swagger/Jenkinsfile" timestamp="1538978148152">
         <mark key="[" line="18" column="9" />
@@ -998,6 +998,13 @@
         <mark key="]" line="11" column="24" />
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/resources/application.yml" timestamp="1542015241776">
+        <mark key="'" line="22" column="10" />
+        <mark key="[" line="44" column="51" />
+        <mark key="]" line="44" column="52" />
+        <mark key="^" line="42" column="33" />
+        <mark key="." line="44" column="52" />
       </file>
       <file name="$USER_HOME$/codes/longfor/wecorp/wecorp-web/src/main/java/com/chinaebi/wecorp/web/repo/entity/AccessToken.java" timestamp="1533632997439">
         <mark key="[" line="16" column="12" />
@@ -1275,11 +1282,11 @@
         <mark key="." line="17" column="52" />
         <mark key="^" line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-client/src/main/java/com/shanhh/siberia/client/dto/app/Env.java" timestamp="1541135966823">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-client/src/main/java/com/shanhh/siberia/client/dto/app/Env.java" timestamp="1542017723508">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="43" column="4" />
+        <mark key="." line="43" column="4" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-demo/daenerys3-demo-consumer/src/main/java/com/longfor/daenerys3/demo/consumer/config/MockFactory.java" timestamp="1536739023237">
         <mark key="[" line="13" column="12" />
@@ -1425,13 +1432,13 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/impl/SubscribeServiceImpl.java" timestamp="1542012971625">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/impl/SubscribeServiceImpl.java" timestamp="1542016322389">
+        <mark key="[" line="25" column="60" />
+        <mark key="]" line="25" column="61" />
+        <mark key="." line="25" column="61" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/application-dev.yml" timestamp="1541560523811">
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/application-dev.yml" timestamp="1542014901490">
         <mark key="[" line="71" column="51" />
         <mark key="]" line="71" column="50" />
         <mark key="^" line="71" column="50" />
@@ -1467,11 +1474,11 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/entity/Subscribe.java" timestamp="1542012500603">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/entity/Subscribe.java" timestamp="1542016497682">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="28" column="10" />
+        <mark key="^" line="28" column="10" />
+        <mark key="." line="28" column="10" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-demo/daenerys3-demo-web/src/main/java/com/longfor/daenerys3/demo/web/config/RedisConfig.java" timestamp="1535941681758">
         <mark key="[" line="28" column="0" />
@@ -1701,6 +1708,12 @@
         <mark key="." line="29" column="37" />
         <mark key="^" line="29" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/convertor/PushJobConvertor.java" timestamp="1542016816093">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="17" />
+        <mark key="^" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-web/src/main/java/com/longfor/gaia/gfs/demo/web/repo/dao/entity/User.java" timestamp="1541644459658">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -1766,6 +1779,12 @@
         <mark key="]" line="27" column="30" />
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/config/TypeHandlerConfituration.java" timestamp="1542017778180">
+        <mark key="[" line="36" column="65" />
+        <mark key="]" line="36" column="64" />
+        <mark key="^" line="36" column="64" />
+        <mark key="." line="36" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/repo/mapper/DeploymentMapper.xml" timestamp="1540521077615">
         <mark key="[" line="4" column="85" />
@@ -2085,11 +2104,11 @@
         <mark key="." line="31" column="71" />
         <mark key="^" line="31" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/TypeHandlerConfituration.java" timestamp="1541125836874">
-        <mark key="[" line="45" column="49" />
-        <mark key="]" line="45" column="53" />
-        <mark key="." line="45" column="53" />
-        <mark key="^" line="45" column="53" />
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/TypeHandlerConfituration.java" timestamp="1542017738989">
+        <mark key="[" line="44" column="51" />
+        <mark key="]" line="44" column="50" />
+        <mark key="." line="44" column="50" />
+        <mark key="^" line="44" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/java/com/longfor/gaia/dy/assistant/service/impl/LdapUserService.java" timestamp="1540889822403">
         <mark key="[" line="24" column="46" />
@@ -2162,11 +2181,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/TrdPartyMessageDTO.java" timestamp="1542003177647">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-dy-assistant/src/main/java/com/longfor/gaia/dy/assistant/resource/MessageResource.java" timestamp="1541042607325">
         <mark key="[" line="22" column="25" />
@@ -2972,6 +2986,12 @@
         <mark key="^" line="28" column="24" />
         <mark key="." line="14" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/JobStatus.java" timestamp="1542017635873">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-consul/src/main/java/com/longfor/gaia/gfs/web/consul/config/ConsulMetaAspect.java" timestamp="1537178092848">
         <mark key="[" line="34" column="99" />
         <mark key="]" line="35" column="48" />
@@ -3386,9 +3406,6 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542004354863">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/src/test/java/com/longfor/gaia/gfs/data/mybatis/config/typehandler/TypeHandlerConfituration.java" timestamp="1540514113695">
         <mark key="[" line="36" column="75" />
         <mark key="]" line="37" column="11" />
@@ -3412,6 +3429,13 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/SubscribeStatus.java" timestamp="1542016023554">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+        <mark key="^" line="30" column="8" />
       </file>
       <file name="$USER_HOME$/codes/personal/filescanner/src/main/java/com/shanhh/filescanner/mapper/FileLogMapper.java" timestamp="1535955098171">
         <mark key="[" line="9" column="60" />
@@ -3443,7 +3467,7 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/Jiguang.java" timestamp="1542000635732">
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/Jiguang.java" timestamp="1542018322202">
         <mark key="[" line="28" column="59" />
         <mark key="]" line="28" column="84" />
         <mark key="." line="28" column="84" />
@@ -3761,7 +3785,7 @@
         <mark key="^" line="33" column="66" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/entity/po/AppConfigLog.java" timestamp="1541559881151">
+      <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/entity/po/AppConfigLog.java" timestamp="1542015695507">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="18" />
         <mark key="^" line="25" column="18" />
@@ -3869,11 +3893,17 @@
         <mark key="^" line="6" column="45" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/impl/MessageServiceImpl.java" timestamp="1542013125147">
-        <mark key="[" line="36" column="69" />
-        <mark key="]" line="36" column="79" />
-        <mark key="." line="36" column="79" />
-        <mark key="^" line="36" column="79" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/mapper/PushJobMapper.java" timestamp="1542016397928">
+        <mark key="[" line="9" column="60" />
+        <mark key="]" line="9" column="59" />
+        <mark key="^" line="9" column="59" />
+        <mark key="." line="9" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/impl/MessageServiceImpl.java" timestamp="1542017668459">
+        <mark key="[" line="47" column="38" />
+        <mark key="]" line="47" column="37" />
+        <mark key="." line="47" column="37" />
+        <mark key="^" line="47" column="37" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-registry/src/main/java/com/longfor/daenerys3/web/registry/service/GatewayServiceFactory.java" timestamp="1536637713177">
         <mark key="[" line="30" column="73" />
@@ -3965,6 +3995,12 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/config/DalConfig.java" timestamp="1542014665878">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="71" />
+        <mark key="^" line="10" column="71" />
+        <mark key="." line="10" column="71" />
+      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/entity/bo/PipelinePaginateCondition.java" timestamp="1540197758288">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="17" />
@@ -3988,6 +4024,13 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-swagger/src/main/java/com/longfor/gaia/gfs/web/swagger/config/SwaggerConfig.java" timestamp="1542015837937">
+        <mark key="'" line="43" column="71" />
+        <mark key="[" line="42" column="72" />
+        <mark key="]" line="42" column="71" />
+        <mark key="." line="42" column="71" />
+        <mark key="^" line="42" column="71" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-feign/src/main/java/com/longfor/daenerys3/web/feign/LFFeignClientFactoryBean.java" timestamp="1536716550285">
         <mark key="[" line="243" column="43" />
@@ -4745,11 +4788,11 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/JiguangAction.java" timestamp="1542002796207">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/JiguangAction.java" timestamp="1542018477723">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/entity/po/Pipeline.java" timestamp="1540436643851">
         <mark key="[" line="29" column="31" />
@@ -4799,7 +4842,7 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1542012049956">
+      <file name="/fragment.java" timestamp="1542018272116">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
@@ -4829,16 +4872,18 @@
         <mark key="^" line="50" column="17" />
         <mark key="." line="50" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/AsyncSender.java" timestamp="1542010100000">
-        <mark key="[" line="43" column="42" />
-        <mark key="]" line="43" column="41" />
-        <mark key="." line="43" column="41" />
-        <mark key="^" line="43" column="41" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/AsyncSender.java" timestamp="1542018290664">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/ServiceType.java" timestamp="1542012056900">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/ServiceType.java" timestamp="1542017514707">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/entity/po/DeployCnt.java" timestamp="1540883770225">
         <mark key="[" line="17" column="20" />
@@ -5146,11 +5191,11 @@
         <mark key="^" line="29" column="94" />
         <mark key="." line="29" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/entity/PushJob.java" timestamp="1541982843100">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="43" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/entity/PushJob.java" timestamp="1542016938725">
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/pom.xml" timestamp="1540513537882">
         <mark key="[" line="76" column="0" />
@@ -5224,11 +5269,11 @@
         <mark key="." line="9" column="156" />
         <mark key="^" line="9" column="156" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/dto/JiguangMessageDTO.java" timestamp="1542004958605">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="71" column="0" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/dto/JiguangMessageDTO.java" timestamp="1542018486155">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="20" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-chatops-agent/gaia-chatops-agent/src/main/resources/application-dev.yml" timestamp="1541383033561">
         <mark key="[" line="7" column="29" />
@@ -5266,11 +5311,11 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/JiguangSender.java" timestamp="1542010164722">
-        <mark key="[" line="60" column="49" />
-        <mark key="]" line="60" column="52" />
-        <mark key="." line="60" column="52" />
-        <mark key="^" line="60" column="52" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/JiguangSender.java" timestamp="1542018293860">
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="64" column="3" />
+        <mark key="^" line="64" column="3" />
+        <mark key="." line="64" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/workflow/register/SpringCloudRegister.java" timestamp="1540796811320">
         <mark key="[" line="66" column="1" />
@@ -5314,10 +5359,11 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/PushJobDTO.java" timestamp="1542013061238">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/PushJobDTO.java" timestamp="1542017506304">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="19" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-client/src/main/java/com/shanhh/siberia/client/dto/workflow/WorkflowDTO.java" timestamp="1540520111854">
         <mark key="[" line="29" column="5" />
@@ -5399,9 +5445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="44" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/template/appLock.html" />
-      <jump line="118" column="85" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/impl/AppServiceImpl.java" />
-      <jump line="219" column="60" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/impl/AppServiceImpl.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/js/pipelineController.js" />
       <jump line="200" column="35" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/static/siberia/js/pipelineController.js" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/PipelineService.java" />
@@ -5499,6 +5542,9 @@
       <jump line="28" column="84" filename="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/Jiguang.java" />
       <jump line="15" column="10" filename="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/resources/application.yml" />
       <jump line="42" column="71" filename="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-swagger/src/main/java/com/longfor/gaia/gfs/web/swagger/config/SwaggerConfig.java" />
+      <jump line="28" column="51" filename="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/SubscribeStatus.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/SubscribeStatus.java" />
+      <jump line="38" column="17" filename="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/ServiceType.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -6167,8 +6213,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -7713,46 +7759,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">UHVzaEFjdGlvbiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVUaW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0cnkucmVnaXN0ZXIoU2VydmljZVR5cGUuY2xhc3MsIFN0cmluZ0VudW1UeXBlSGFuZGxlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGNyZWF0ZUJ5Owo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHNlY3JldCA9ICI1ZTk4N2FjNmQyZTA0ZDk1YTlkOGYwZDEiOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFwcGtleSA9ICI3ZDQzMWU0MmRmYTZhNmQ2OTNhYzJkMDQiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHVybCA9ICJodHRwczovL2FwaS5qcHVzaC5jbi92My9wdXNoIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFB1c2hKb2I+IGZpbmRQdXNoSm9ic0J5U3RhdHVzKCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgdmFsaWRhdGVUb2tlbihTdHJpbmcgdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ViLmdldFNlcnZpY2VUeXBlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJzZXJ2aWNlX3R5cGUiKQo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBQdXNoQWN0aW9uIGJ1aWxkQWN0aW9uKFNlbmRQdXNoUmVxIHB1c2gpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJzZXJ2aWNlX3R5cGUiKQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFB1c2hBY3Rpb24gYnVpbGRBY3Rpb24oUGF5bG9hZCBwYXlsb2FkKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
