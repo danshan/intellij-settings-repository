@@ -8,6 +8,9 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="LoadUnloadModules">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta slash" />
   </action>
