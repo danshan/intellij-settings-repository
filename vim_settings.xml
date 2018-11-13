@@ -3341,6 +3341,12 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-swagger-center/src/main/java/com/longfor/gaia/gfs/web/swagger/center/LoggerLevelRefresher.java" timestamp="1542107927723">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/main/java/com/longfor/daenerys3/web/core/config/InstanceIdConfig.java" timestamp="1534501707661">
         <mark key="[" line="27" column="16" />
         <mark key="]" line="27" column="23" />
@@ -4906,7 +4912,7 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1542100050499">
+      <file name="/fragment.java" timestamp="1542107926707">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
@@ -5512,11 +5518,11 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="30" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-core/src/main/resources/logging/logback-pattern.xml" timestamp="1542101062715">
-        <mark key="[" line="5" column="114" />
-        <mark key="]" line="5" column="114" />
-        <mark key="." line="5" column="114" />
-        <mark key="^" line="5" column="114" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-core/src/main/resources/logging/logback-pattern.xml" timestamp="1542107501830">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -6289,7 +6295,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>releases</text>
+        <text>context</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -7834,7 +7840,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>releases</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
