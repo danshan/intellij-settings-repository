@@ -3107,6 +3107,12 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/atlassian/codes/gliffy-confluence-plugin/src/main/java/com/gliffy/plugin/confluence/license/GliffyLicenseManager.java" timestamp="1542103765445">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-web-metrics/README.md" timestamp="1537239395283">
         <mark key="[" line="82" column="37" />
         <mark key="]" line="15" column="112" />
@@ -4923,10 +4929,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="59" column="23" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="/File Header.txt.ft" timestamp="1542080434821">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/service/impl/WorkflowServiceImpl.java" timestamp="1540456669894">
         <mark key="[" line="50" column="18" />
