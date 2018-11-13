@@ -1016,12 +1016,12 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/resources/application.yml" timestamp="1542015241776">
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/resources/application.yml" timestamp="1542090071201">
         <mark key="'" line="22" column="10" />
-        <mark key="[" line="44" column="51" />
-        <mark key="]" line="44" column="52" />
-        <mark key="^" line="42" column="33" />
-        <mark key="." line="44" column="52" />
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/codes/longfor/wecorp/wecorp-web/src/main/java/com/chinaebi/wecorp/web/repo/entity/AccessToken.java" timestamp="1533632997439">
         <mark key="[" line="16" column="12" />
@@ -2898,6 +2898,9 @@
         <mark key="]" line="18" column="57" />
         <mark key="^" line="18" column="57" />
         <mark key="." line="18" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-swagger-center/pom.xml" timestamp="1542090005051">
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-mock/src/main/java/com/longfor/daenerys3/web/mock/strategy/NameCN.java" timestamp="1536799275340">
         <mark key="[" line="17" column="75" />
