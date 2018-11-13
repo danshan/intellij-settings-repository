@@ -3449,7 +3449,7 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542097354660">
+      <file name="/Dummy.txt" timestamp="1542099284954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/src/test/java/com/longfor/gaia/gfs/data/mybatis/config/typehandler/TypeHandlerConfituration.java" timestamp="1540514113695">
@@ -4367,11 +4367,11 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-core/src/main/java/com/longfor/gaia/gfs/core/utils/ApplicationNameConverter.java" timestamp="1542098476393">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="17" column="30" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-core/src/main/java/com/longfor/gaia/gfs/core/utils/ApplicationNameConverter.java" timestamp="1542099322367">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/personal/codes/apollo/apollo-assembly/src/main/resources/application.yml" timestamp="1539842180396">
         <mark key="[" line="9" column="18" />
@@ -4891,7 +4891,7 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1542097983154">
+      <file name="/fragment.java" timestamp="1542099284948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
