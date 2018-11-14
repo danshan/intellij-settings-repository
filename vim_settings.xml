@@ -1301,11 +1301,11 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/payload/Payload.java" timestamp="1542177866264">
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="26" column="29" />
-        <mark key="^" line="26" column="29" />
-        <mark key="." line="26" column="29" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/payload/Payload.java" timestamp="1542179051284">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="25" column="18" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="25" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-admin/src/main/java/com/longfor/gaia/gfs/web/admin/Application.java" timestamp="1542093862364">
         <mark key="[" line="15" column="1" />
@@ -4871,11 +4871,11 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/JiguangAction.java" timestamp="1542177858115">
-        <mark key="[" line="57" column="9" />
-        <mark key="]" line="58" column="7" />
-        <mark key="^" line="58" column="7" />
-        <mark key="." line="58" column="7" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/JiguangAction.java" timestamp="1542179142988">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="57" column="127" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/entity/po/Pipeline.java" timestamp="1540436643851">
         <mark key="[" line="29" column="31" />
@@ -6318,8 +6318,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -7876,22 +7876,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5zZXRNZXNzYWdlQ29udmVydGVycyhidWlsZE1lc3NhZ2VDb252ZXJ0ZXJzKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5zZXRNZXNzYWdlQ29udmVydGVycyhidWlsZE1lc3NhZ2VDb252ZXJ0ZXJzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLnB1dChtZXNzYWdlKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5zZXRNZXNzYWdlQ29udmVydGVycyhidWlsZE1lc3NhZ2VDb252ZXJ0ZXJzKCkpOwo=</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcjsK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5zZXRNZXNzYWdlQ29udmVydGVycyhidWlsZE1lc3NhZ2VDb252ZXJ0ZXJzKCkpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -7900,10 +7900,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByLmFkZChuZXcgU3RyaW5nSHR0cE1lc3NhZ2VDb252ZXJ0ZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHIuYWRkKG5ldyBNYXBwaW5nSmFja3NvbjJIdHRwTWVzc2FnZUNvbnZlcnRlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcjsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
