@@ -45,9 +45,6 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1542186021151">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-demo/gaia-gfs-demo-web/src/main/java/com/longfor/gaia/gfs/demo/web/repo/dao/mapper/UserMapper.xml" timestamp="1537854040016">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="24" />
@@ -323,6 +320,12 @@
         <mark key="]" line="239" column="74" />
         <mark key="^" line="239" column="74" />
         <mark key="." line="239" column="74" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/BaseAsyncSender.java" timestamp="1542243333644">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/src/main/java/com/longfor/gaia/gfs/data/mybatis/typehandler/BaseStringNum.java" timestamp="1540178857758">
         <mark key="[" line="3" column="11" />
@@ -935,6 +938,12 @@
         <mark key="]" line="42" column="26" />
         <mark key="^" line="14" column="25" />
         <mark key="." line="42" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/JiguangSenderBase.java" timestamp="1542243088923">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="24" />
       </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-demo/README.md" timestamp="1537175972552">
         <mark key="[" line="69" column="25" />
@@ -1824,9 +1833,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1542080434751">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/main/java/com/longfor/daenerys3/web/core/mapper/GitVersionMapper.java" timestamp="1534905071243">
         <mark key="[" line="14" column="14" />
@@ -2800,9 +2806,6 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/entity/Subscription.java" timestamp="1542185999934">
-        <mark key="[" line="19" column="28" />
-      </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-discovery/daenerys3-web-gravitee-client/src/main/java/com/longfor/daenerys3/web/gravitee/client/dto/NewApiReq.java" timestamp="1536291222993">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="8" column="23" />
@@ -3547,9 +3550,6 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542162608715">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/src/test/java/com/longfor/gaia/gfs/data/mybatis/config/typehandler/TypeHandlerConfituration.java" timestamp="1540514113695">
         <mark key="[" line="36" column="75" />
         <mark key="]" line="37" column="11" />
@@ -4083,9 +4083,6 @@
         <mark key="]" line="9" column="2" />
         <mark key="^" line="8" column="6" />
         <mark key="." line="9" column="2" />
-      </file>
-      <file name="/Catch Statement Body.txt.ft" timestamp="1542080427211">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/SubscriptionService.java" timestamp="1542189774498">
         <mark key="[" line="21" column="0" />
@@ -6419,7 +6416,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getDeviceIds</text>
+        <text>Base</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -7964,7 +7961,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getDeviceIds</text>
+        <text>Base</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
