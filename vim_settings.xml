@@ -45,9 +45,6 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1542247333164">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-demo/gaia-gfs-demo-web/src/main/java/com/longfor/gaia/gfs/demo/web/repo/dao/mapper/UserMapper.xml" timestamp="1537854040016">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="24" />
@@ -1922,9 +1919,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1542080434751">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-unittest/src/test/java/com/longfor/gaia/gfs/demo/unittest/repo/UserRepoImplTest.java" timestamp="1542348876835" />
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/main/java/com/longfor/daenerys3/web/core/mapper/GitVersionMapper.java" timestamp="1534905071243">
         <mark key="[" line="14" column="14" />
@@ -2162,11 +2156,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/JiguangServiceProvider.java" timestamp="1542343311302">
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/JiguangServiceProvider.java" timestamp="1542350472594">
         <mark key="'" line="126" column="18" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+        <mark key="[" line="103" column="29" />
+        <mark key="]" line="103" column="28" />
+        <mark key="." line="103" column="28" />
+        <mark key="^" line="103" column="28" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-data-mybatis/src/main/java/com/longfor/daenerys3/data/mybatis/toolkit/DataSourceFactory.java" timestamp="1536044607737">
         <mark key="[" line="109" column="0" />
@@ -3700,9 +3695,6 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542343185470">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-mybatis/src/test/java/com/longfor/gaia/gfs/data/mybatis/config/typehandler/TypeHandlerConfituration.java" timestamp="1540514113695">
         <mark key="[" line="36" column="75" />
         <mark key="]" line="37" column="11" />
@@ -4139,11 +4131,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/push/Payload.java" timestamp="1542337078912">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="21" />
-        <mark key="." line="44" column="21" />
-        <mark key="^" line="44" column="21" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-client/src/main/java/com/longfor/gaia/gfs/web/push/client/dto/push/Payload.java" timestamp="1542350475103">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+        <mark key="^" line="44" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/java/com/shanhh/siberia/web/config/StringEnumConverterFactory.java" timestamp="1541135518021">
         <mark key="[" line="18" column="38" />
@@ -4277,9 +4269,6 @@
         <mark key="]" line="9" column="2" />
         <mark key="^" line="8" column="6" />
         <mark key="." line="9" column="2" />
-      </file>
-      <file name="/Catch Statement Body.txt.ft" timestamp="1542080427211">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/SubscriptionService.java" timestamp="1542189774498">
         <mark key="[" line="21" column="0" />
