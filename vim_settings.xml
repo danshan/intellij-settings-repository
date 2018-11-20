@@ -1140,10 +1140,11 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/resources/application.yml" timestamp="1542682269786">
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="20" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/resources/application.yml" timestamp="1542686320024">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/codes/longfor/wecorp/wecorp-web/src/main/java/com/chinaebi/wecorp/web/repo/entity/AccessToken.java" timestamp="1533632997439">
         <mark key="[" line="16" column="12" />
@@ -1241,6 +1242,7 @@
         <mark key="^" line="42" column="52" />
         <mark key="." line="42" column="52" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.19.RELEASE/spring-context-4.3.19.RELEASE-sources.jar!/org/springframework/cache/annotation/SpringCacheAnnotationParser.java" timestamp="1542685877142" />
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/test/java/com/shanhh/siberia/web/ApplicationTest.java" timestamp="1540776861510">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="30" />
@@ -2019,11 +2021,11 @@
         <mark key="^" line="19" column="38" />
         <mark key="." line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/config/RedisConfig.java" timestamp="1542684348337">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="31" column="58" />
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/config/RedisConfig.java" timestamp="1542686221801">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/codes/longfor/daenerys3-web-core/src/test/java/com/longfor/daenerys3/web/core/controller/DemoControllerTest.java" timestamp="1536372008627">
         <mark key="[" line="15" column="17" />
@@ -3295,7 +3297,7 @@
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/service/trdparty/jiguang/dto/JiguangSmsReq.java" timestamp="1542597493998">
         <mark key="[" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/impl/ProviderAccountRepoImpl.java" timestamp="1542684124003">
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-push/gaia-gfs-web-push-web/src/main/java/com/longfor/gaia/gfs/web/push/repo/impl/ProviderAccountRepoImpl.java" timestamp="1542685663470">
         <mark key="[" line="31" column="48" />
         <mark key="]" line="31" column="48" />
         <mark key="." line="31" column="48" />
@@ -3934,6 +3936,7 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.19.RELEASE/spring-context-4.3.19.RELEASE-sources.jar!/org/springframework/cache/annotation/EnableCaching.java" timestamp="1542686093583" />
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-client/pom.xml" timestamp="1539932752981">
         <mark key="[" line="18" column="1" />
         <mark key="]" line="18" column="0" />
@@ -5156,6 +5159,7 @@
         <mark key="^" line="30" column="40" />
         <mark key="." line="30" column="40" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.19.RELEASE/spring-context-4.3.19.RELEASE-sources.jar!/org/springframework/cache/support/AbstractCacheManager.java" timestamp="1542686012288" />
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-data-redis/README.md" timestamp="1537150535565">
         <mark key="[" line="15" column="137" />
         <mark key="]" line="16" column="1" />
@@ -6893,8 +6897,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eSh2YWx1ZSA9ICJwdXNoLmNhY2hpbmcuZW5hYmxlZCIsIG1hdGNoSWZNaXNzaW5nID0gZmFsc2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>INFO</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -8439,7 +8443,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRKb2JJZFw+</text>
@@ -8448,37 +8452,37 @@
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmxvbmdmb3IuZ2FpYS5nZnM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmdhaWEtZ2ZzLWRhdGEtbXliYXRpczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtnYWlhLWdmcy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eSh2YWx1ZSA9ICJwdXNoLmNhY2hpbmcuZW5hYmxlZCIsIG1hdGNoSWZNaXNzaW5nID0gZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQo=</text>
+        <text encoding="base64">QENvbmRpdGlvbmFsT25Qcm9wZXJ0eSh2YWx1ZSA9ICJwdXNoLmNhY2hpbmcuZW5hYmxlZCIsIG1hdGNoSWZNaXNzaW5nID0gZmFsc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDkvZzogIXvvJpldW1lbmlkZXNfCiAgICDmnaXmupDvvJpDU0ROCiAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvZXVtZW5pZGVzXy9hcnRpY2xlL2RldGFpbHMvNzgyOTgwODggCg==</text>
+        <text encoding="base64">ICAgIOeJiOadg+WjsOaYju+8muacrOaWh+S4uuWNmuS4u+WOn+WIm+aWh+eroO+8jOi9rOi9veivt+mZhOS4iuWNmuaWh+mTvuaOpe+8gQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICDkvZzogIXvvJpldW1lbmlkZXNfCiAgICDmnaXmupDvvJpDU0ROCiAgICDljp/mlofvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvZXVtZW5pZGVzXy9hcnRpY2xlL2RldGFpbHMvNzgyOTgwODggCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZWFibGUoICAgIEBDYWNoZWFibGUodmFsdWUgPSAiemgiLGtleSA9ICIndXNlcl8nICsgI2lkIikK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGE6Cg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZWFibGUoICAgIEBDYWNoZWFibGUodmFsdWUgPSAiemgiLGtleSA9ICIndXNlcl8nICsgI2lkIikK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGE6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBtYXhBY3RpdmU6IDUyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
