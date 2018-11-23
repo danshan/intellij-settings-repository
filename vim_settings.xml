@@ -45,6 +45,9 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
+      <file name="/a.dummy" timestamp="1542933891518">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codes/longfor/gaia-gfs-demo/gaia-gfs-demo-web/src/main/java/com/longfor/gaia/gfs/demo/web/repo/dao/mapper/UserMapper.xml" timestamp="1537854040016">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="24" />
@@ -2037,6 +2040,7 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/config/TraceInterceptor.java" timestamp="1542933945449" />
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-data-rabbitmq/src/test/java/com/longfor/gaia/gfs/data/mongo/config/ApplicationTests.java" timestamp="1539759055994">
         <mark key="[" line="0" column="34" />
         <mark key="]" line="0" column="41" />
@@ -4051,6 +4055,12 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="13" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-core/src/main/resources/logging/logback-defaults.xml" timestamp="1542933558532">
+        <mark key="[" line="82" column="35" />
+        <mark key="]" line="82" column="35" />
+        <mark key="^" line="82" column="35" />
+        <mark key="." line="82" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/siberia/siberia-web/src/main/resources/templates/login.html" timestamp="1540455041859">
         <mark key="[" line="34" column="40" />
         <mark key="]" line="34" column="34" />
@@ -5119,6 +5129,12 @@
         <mark key="." line="29" column="4" />
         <mark key="^" line="29" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/config/LFRequestConverFilter.java" timestamp="1542933890316">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-demo/gaia-gfs-demo-unittest/src/main/java/com/longfor/gaia/gfs/demo/unittest/service/UserService.java" timestamp="1541752067686">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="28" />
@@ -5511,7 +5527,7 @@
         <mark key="^" line="144" column="26" />
         <mark key="." line="144" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/config/WebMvcConfig.java" timestamp="1541652192896">
+      <file name="$USER_HOME$/workspace/longfor/codes/gaia-gfs-web-core/src/main/java/com/longfor/gaia/gfs/web/core/config/WebMvcConfig.java" timestamp="1542934021677">
         <mark key="[" line="31" column="76" />
         <mark key="]" line="32" column="7" />
         <mark key="." line="32" column="7" />
@@ -7091,8 +7107,8 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QE5vCg==</text>
+      <register name="&quot;" type="4">
+        <text>FILE</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -8637,7 +8653,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVzaEpvYkRldGFpbERUTyA=</text>
+        <text>FILE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
